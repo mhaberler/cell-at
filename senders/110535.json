@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "101.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "TURRACH",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "88.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "TURRACH",
+        "programm": "Radio Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "TURRACH",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "TURRACH",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0355",
+        "ort": "TURRACH",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "gkey": "103939",
+        "layer": "1",
+        "leistung": "52.970002772134",
+        "sharing": "0",
+        "struktur": "m",
+        "system": "UMTS"
+    },
+    {
+        "gkey": "103939",
+        "layer": "1",
+        "leistung": "111.63",
+        "sharing": "1",
+        "struktur": "e",
+        "system": "2G/3G/4G"
+    }
+]

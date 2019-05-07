@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "102.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "SALZBURG 4 Wartberg",
+        "programm": "Klassik Radio (Salzburg)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "107.9",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2512",
+        "ort": "SALZBURG 4 Wartberg",
+        "programm": "Radio Maria (Salzburg)",
+        "system": "H\u00f6rfunk"
+    }
+]

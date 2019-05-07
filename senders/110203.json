@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.3183",
+        "ort": "IMST 4 Plattenrain",
+        "programm": "Oberland TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.3183",
+        "ort": "IMST 4 Plattenrain",
+        "programm": "TIROL TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.3183",
+        "ort": "IMST 4 Plattenrain",
+        "programm": "TIROL TV",
+        "system": "Digitaler Rundfunk"
+    }
+]

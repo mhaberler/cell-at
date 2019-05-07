@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "104.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.4786",
+        "ort": "GRAZ 8 Eisenberg",
+        "programm": "Arabella Rock Graz",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "GRAZ 8 Eisenberg",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    }
+]

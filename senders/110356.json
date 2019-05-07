@@ -1,0 +1,146 @@
+[
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "88.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "Radio Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "OBERTAUERN Tauernpass",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

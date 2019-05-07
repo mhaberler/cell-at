@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "103.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2399",
+        "ort": "WIEN INNERE STADT Donaukanal",
+        "programm": "Mein Kinderradio",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0186",
+        "ort": "WIEN INNERE STADT Donaukanal",
+        "programm": "Radio Maria (Wien)",
+        "system": "H\u00f6rfunk"
+    }
+]

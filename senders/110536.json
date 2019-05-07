@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "91.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0600",
+        "ort": "TUX Wanglalpe",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0600",
+        "ort": "TUX Wanglalpe",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0600",
+        "ort": "TUX Wanglalpe",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TUX Wanglalpe",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

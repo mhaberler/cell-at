@@ -1,0 +1,497 @@
+[
+    {
+        "frequenz": "102.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2000",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "105.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2000",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Antenne Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "554",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "90.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2000",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2000",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Radio Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2000",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "SRF 1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "SRF 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "KRONEHIT (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Radio \u00d624 (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "2.5119",
+        "ort": "FELDKIRCH Vorder\u00e4lpele",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    }
+]

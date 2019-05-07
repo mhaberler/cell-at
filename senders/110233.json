@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "102.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "KIRCHDORF KREMS 4 Lauterbach",
+        "programm": "Radio B 138",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "KIRCHDORF KREMS 4 Lauterbach",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "frequenz": "100.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3467",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "Radio Agora",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "105.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3162",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3467",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3467",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3467",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3467",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BRUECKL Lippekogel",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

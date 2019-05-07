@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3162",
+        "ort": "STROBL Wolfgangsee",
+        "programm": "STV 1 Regional TV Bad Ischl",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3162",
+        "ort": "STROBL Wolfgangsee",
+        "programm": "Teletext STV 1 Regional TV Bad Ischl",
+        "system": "Digitaler Rundfunk"
+    }
+]

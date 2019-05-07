@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "101.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1585",
+        "ort": "S ANTON ARLB 2 Galzig RIFU Telekom",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "103.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2000",
+        "ort": "S ANTON ARLB 2 Galzig RIFU Telekom",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

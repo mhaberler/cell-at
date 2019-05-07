@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "90.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "NIEDERNDORF",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "NIEDERNDORF",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "NIEDERNDORF",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "NIEDERNDORF",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

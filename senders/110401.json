@@ -1,0 +1,155 @@
+[
+    {
+        "frequenz": "100.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0302",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "90.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "Radio Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0447",
+        "ort": "RAMINGSTEIN 1 Ambrosenberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "frequenz": "722",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "722",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "722",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "722",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "722",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF SPORT PLUS",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "87.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0032",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "90.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0032",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0032",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "Radio Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF SPORT PLUS",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 52",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0316",
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

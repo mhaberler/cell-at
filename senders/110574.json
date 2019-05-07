@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "90.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "WATTENS",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "WATTENS",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "WATTENS",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    }
+]

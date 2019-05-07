@@ -1,0 +1,119 @@
+[
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

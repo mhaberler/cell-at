@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "103.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "BLEIBURG Weissenegger Berg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3162",
+        "ort": "BLEIBURG Weissenegger Berg",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

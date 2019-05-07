@@ -1,0 +1,119 @@
+[
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "610",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0712",
+        "ort": "TAMSWEG",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

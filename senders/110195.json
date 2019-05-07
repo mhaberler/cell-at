@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "101.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "HORNSBURG Mobilfunk",
+        "programm": "Radio Arabella",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "HORNSBURG Mobilfunk",
+        "programm": "Energy 104,2",
+        "system": "H\u00f6rfunk"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "106.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "KAPFENBERG 3 Burg Oberkapfenberg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "KAPFENBERG 3 Burg Oberkapfenberg",
+        "programm": "Radio Gr\u00fcn Wei\u00df",
+        "system": "H\u00f6rfunk"
+    }
+]

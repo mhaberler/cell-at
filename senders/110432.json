@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "88.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "S ANTON ARLB 1 Galzig",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "92.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "S ANTON ARLB 1 Galzig",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "S ANTON ARLB 1 Galzig",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "S ANTON ARLB 1 Galzig",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.1220",
+        "ort": "S ANTON ARLB 1 Galzig",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "562",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "91.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3027",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3027",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "Radio Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3027",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "TAXENBACH Gschwandtnerberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

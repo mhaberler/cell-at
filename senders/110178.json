@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "104.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0708",
+        "ort": "HINTERTUX 2 Hohenhaustenne",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0708",
+        "ort": "HINTERTUX 2 Hohenhaustenne",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

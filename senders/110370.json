@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "88.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.9",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3981",
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

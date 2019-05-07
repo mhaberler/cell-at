@@ -1,0 +1,146 @@
+[
+    {
+        "frequenz": "105.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "90.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "LoungeFM (Ober\u00f6sterreich Mitte)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "Radio Arabella Linz",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "FREISTADT Obergr\u00fcnbach",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

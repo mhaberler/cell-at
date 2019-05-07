@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "89",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "KOESSEN Hechenbichl",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "KOESSEN Hechenbichl",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "KOESSEN Hechenbichl",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3981",
+        "ort": "KOESSEN Hechenbichl",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

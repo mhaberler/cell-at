@@ -1,0 +1,83 @@
+[
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "STADL MUR",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

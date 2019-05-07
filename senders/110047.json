@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "101.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "BLUDENZ 3 Muttersberg",
+        "programm": "Antenne Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "104.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "BLUDENZ 3 Muttersberg",
+        "programm": "Proton - das freie Radio",
+        "system": "H\u00f6rfunk"
+    }
+]

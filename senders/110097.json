@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "101",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1585",
+        "ort": "ERNSTBRUNN Leiser Berge",
+        "programm": "Radio 88.6",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0776",
+        "ort": "ERNSTBRUNN Leiser Berge",
+        "programm": "Radio Ypsilon",
+        "system": "H\u00f6rfunk"
+    }
+]

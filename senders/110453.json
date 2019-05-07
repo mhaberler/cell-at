@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "88",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "SCHRUNS Golm",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "SCHRUNS Golm",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "SCHRUNS Golm",
+        "programm": "Radio Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "SCHRUNS Golm",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

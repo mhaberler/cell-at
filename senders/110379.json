@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "92.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0060",
+        "ort": "PIOESMES",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0060",
+        "ort": "PIOESMES",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0060",
+        "ort": "PIOESMES",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "PIOESMES",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

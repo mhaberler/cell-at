@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "105.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0302",
+        "ort": "S LEONHARD PZT Oberlehn",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "88.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0250",
+        "ort": "S LEONHARD PZT Oberlehn",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "90.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0250",
+        "ort": "S LEONHARD PZT Oberlehn",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0250",
+        "ort": "S LEONHARD PZT Oberlehn",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    }
+]

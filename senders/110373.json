@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "100.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "PAZNAUN 2 Kappl",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "88.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "PAZNAUN 2 Kappl",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "PAZNAUN 2 Kappl",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "PAZNAUN 2 Kappl",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "PAZNAUN 2 Kappl",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

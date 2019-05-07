@@ -1,0 +1,524 @@
+[
+    {
+        "frequenz": "490",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "490",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "490",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "490",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "490",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "514",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "514",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "514",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "618",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "618",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "682",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "706",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "706",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "706",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "706",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "706",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "SRF 1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.6234",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "SRF 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "5.0119",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "KRONEHIT (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Radio \u00d624 (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 50",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.4668",
+        "ort": "GRAZ 9 Griesplatz",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    }
+]

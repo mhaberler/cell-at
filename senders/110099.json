@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "104.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "FELDKIRCH 2 Auf der Egg",
+        "programm": "Proton - das freie Radio",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "90.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FELDKIRCH 2 Auf der Egg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

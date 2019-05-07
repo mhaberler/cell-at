@@ -1,0 +1,587 @@
+[
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "602",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "602",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "602",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "602",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "602",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "650",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "666",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "666",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "88.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.4000",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.4000",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Radio Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.4000",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "KRONEHIT (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Radio \u00d624 (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "11.2202",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "SRF 1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "SRF 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WAIDHOFEN YB 1 Sonntagberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    }
+]

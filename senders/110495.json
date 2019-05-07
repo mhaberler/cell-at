@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "101.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "106.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "Welle 1 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "Radio Maria (Spittal)",
+        "system": "H\u00f6rfunk"
+    }
+]

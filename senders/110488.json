@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "91.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "SOELDEN 2 Br\u00e4ndleweg 3",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "SOELDEN 2 Br\u00e4ndleweg 3",
+        "programm": "Radio U1 Tirol",
+        "system": "H\u00f6rfunk"
+    }
+]

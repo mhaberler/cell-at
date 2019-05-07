@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "102.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "S MICHAEL LUNG 2 Aineck",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "105.9",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3981",
+        "ort": "S MICHAEL LUNG 2 Aineck",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

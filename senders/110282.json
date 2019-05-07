@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "100.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "LIENZ 2 Hochstein",
+        "programm": "Radio Maria (Spittal)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "104.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "LIENZ 2 Hochstein",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "106.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.4677",
+        "ort": "LIENZ 2 Hochstein",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "107.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "LIENZ 2 Hochstein",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

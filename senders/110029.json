@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2455",
+        "ort": "BAD ISCHL 2 Katrin Seilbahnst\u00fctze",
+        "programm": "STV 1 Regional TV Bad Ischl",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2455",
+        "ort": "BAD ISCHL 2 Katrin Seilbahnst\u00fctze",
+        "programm": "Teletext STV 1 Regional TV Bad Ischl",
+        "system": "Digitaler Rundfunk"
+    }
+]

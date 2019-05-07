@@ -1,0 +1,146 @@
+[
+    {
+        "frequenz": "101.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "90.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.9",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0100",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "Radio Ober\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LOSENSTEIN Habichl",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "100.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.5849",
+        "ort": "S POELTEN 2 Schildberg",
+        "programm": "Radio 88.6",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "S POELTEN 2 Schildberg",
+        "programm": "98.3 Superfly",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.6310",
+        "ort": "S POELTEN 2 Schildberg",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    }
+]

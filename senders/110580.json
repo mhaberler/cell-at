@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "103.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "WEITENSFELD Zammelsberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "WEITENSFELD Zammelsberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "WEITENSFELD Zammelsberg",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.4467",
+        "ort": "WEITENSFELD Zammelsberg",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

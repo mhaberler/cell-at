@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "100.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "IMST 3 Osterstein Arzl",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "103",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "IMST 3 Osterstein Arzl",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "IMST 3 Osterstein Arzl",
+        "programm": "Radio U1 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "IMST 3 Osterstein Arzl",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    }
+]

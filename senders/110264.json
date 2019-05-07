@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "90",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "LAENGENFELD",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "LAENGENFELD",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "LAENGENFELD",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "LAENGENFELD",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "87.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "WELS 2 Sternhochhaus",
+        "programm": "Welle 1 Linz",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2512",
+        "ort": "WELS 2 Sternhochhaus",
+        "programm": "LoungeFM (Ober\u00f6sterreich Mitte)",
+        "system": "H\u00f6rfunk"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "89.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0178",
+        "ort": "ST ULRICH PILLERSEE",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0178",
+        "ort": "ST ULRICH PILLERSEE",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0178",
+        "ort": "ST ULRICH PILLERSEE",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    }
+]

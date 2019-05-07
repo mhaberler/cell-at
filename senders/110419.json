@@ -1,0 +1,146 @@
+[
+    {
+        "frequenz": "100",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "102.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "103.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "104.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "Antenne Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "104.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0589",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "Radio Gr\u00fcn Wei\u00df",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "87.9",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "Radio Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0000",
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

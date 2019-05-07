@@ -1,0 +1,776 @@
+[
+    {
+        "frequenz": "104.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.0024",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Energy 104,2",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "498",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF SPORT PLUS",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "gotv",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Schau TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "730",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "730",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "730",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "730",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "730",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "786",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "786",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF SPORT PLUS",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "8.9125",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "SRF 1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "SRF 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Comedy Central / VIVA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "gotv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Hope Channel",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "LAOLA1.tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "N24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "OKTO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Schau TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Schau TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Teletext Schau TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "TLC",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "W24 (MUX)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Zugang zu ATV Smart \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "KRONEHIT (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Radio \u00d624 (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 53",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 60",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 60",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 60",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 60",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "WIEN 5 Arsenal",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    }
+]

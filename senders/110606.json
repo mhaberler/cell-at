@@ -1,0 +1,173 @@
+[
+    {
+        "frequenz": "102.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "106",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1514",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "594",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "88.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "Radio Ober\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1514",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "Life Radio (Ober\u00f6sterreich)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1500",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7943",
+        "ort": "WINDISCHGARSTEN Kleinerberg",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

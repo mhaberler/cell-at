@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "104.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "DALAAS",
+        "programm": "Antenne Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "DALAAS",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "92.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "DALAAS",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "DALAAS",
+        "programm": "Radio Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "DALAAS",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

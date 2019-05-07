@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "90.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0120",
+        "ort": "NAUDERS Kleinmutzkopf",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0120",
+        "ort": "NAUDERS Kleinmutzkopf",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0120",
+        "ort": "NAUDERS Kleinmutzkopf",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0398",
+        "ort": "NAUDERS Kleinmutzkopf",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

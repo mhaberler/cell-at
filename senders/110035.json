@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "102.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "BEZAU 2 Richtfunkmast Bergstation",
+        "programm": "Antenne Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "104.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1202",
+        "ort": "BEZAU 2 Richtfunkmast Bergstation",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

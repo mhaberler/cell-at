@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "89.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "LINZ 2 Freinberg (RK)",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3020",
+        "ort": "LINZ 2 Freinberg (RK)",
+        "programm": "Welle 1 Linz",
+        "system": "H\u00f6rfunk"
+    }
+]

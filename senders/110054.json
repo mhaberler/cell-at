@@ -1,0 +1,659 @@
+[
+    {
+        "frequenz": "102.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.0035",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "106.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.0035",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Antenne Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "176.64",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "474",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "482",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "554",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.1187",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "gotv",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "634",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "89.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.0035",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.0035",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.0035",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "SRF 1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "SRF 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "KRONEHIT (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "PULS 4 Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio \u00d624 (MUX F)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "56.2341",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.1187",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.1187",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.1187",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "50.1187",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "gotv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "L\u00e4ndle TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "19.9526",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Zugang zu ATV Smart \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ARABELLA PLUS",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "Radio Maxima",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "10.0000",
+        "ort": "BREGENZ 1 Pf\u00e4nder",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "89.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0079",
+        "ort": "WINKLERN Badb\u00fchel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0079",
+        "ort": "WINKLERN Badb\u00fchel",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0079",
+        "ort": "WINKLERN Badb\u00fchel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    }
+]

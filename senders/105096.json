@@ -1,0 +1,26 @@
+[
+    {
+        "gkey": "105096",
+        "layer": "1",
+        "leistung": "101.64",
+        "sharing": "1",
+        "struktur": "d",
+        "system": "2G/4G"
+    },
+    {
+        "gkey": "105096",
+        "layer": "1",
+        "leistung": "135",
+        "sharing": "0",
+        "struktur": "d",
+        "system": "GSM/LTE/UMTS"
+    },
+    {
+        "gkey": "105096",
+        "layer": "1",
+        "leistung": "59.0241845333278",
+        "sharing": "0",
+        "struktur": "d",
+        "system": "UMTS"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "102",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "105.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.8913",
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "106.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3981",
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Radio U1 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3981",
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    }
+]

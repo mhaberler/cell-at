@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1202",
+        "ort": "SPITTAL DRAU 1 Goldeck Bergstation",
+        "programm": "FREIZEITFERNSEHEN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1202",
+        "ort": "SPITTAL DRAU 1 Goldeck Bergstation",
+        "programm": "FREIZEITFERNSEHEN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1202",
+        "ort": "SPITTAL DRAU 1 Goldeck Bergstation",
+        "programm": "KULT 1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1202",
+        "ort": "SPITTAL DRAU 1 Goldeck Bergstation",
+        "programm": "KULT 1",
+        "system": "Digitaler Rundfunk"
+    }
+]

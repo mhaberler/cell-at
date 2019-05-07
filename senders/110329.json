@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "91.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

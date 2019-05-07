@@ -1,0 +1,56 @@
+[
+    {
+        "frequenz": "101.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "FRIESACH Lorenzenberg",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "106.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0603",
+        "ort": "FRIESACH Lorenzenberg",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "FRIESACH Lorenzenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "FRIESACH Lorenzenberg",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "FRIESACH Lorenzenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "FRIESACH Lorenzenberg",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

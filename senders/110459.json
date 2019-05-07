@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "89.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "SELLRAIN",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "SELLRAIN",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0794",
+        "ort": "SELLRAIN",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    }
+]

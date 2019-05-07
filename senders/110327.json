@@ -1,0 +1,182 @@
+[
+    {
+        "frequenz": "101.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "506",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF SPORT PLUS",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "88",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "90.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "92.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "Radio Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0500",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "Radio Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF SPORT PLUS",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.2818",
+        "ort": "MITTERBACH ERL Gemeindealpe",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

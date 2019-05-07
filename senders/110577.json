@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "88.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0080",
+        "ort": "WEISSBRIACH",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0080",
+        "ort": "WEISSBRIACH",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0080",
+        "ort": "WEISSBRIACH",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "WEISSBRIACH",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "frequenz": "102.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "KOETSCHACH Kronhof",
+        "programm": "Radio Osttirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "88.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "KOETSCHACH Kronhof",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "KOETSCHACH Kronhof",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0150",
+        "ort": "KOETSCHACH Kronhof",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KOETSCHACH Kronhof",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3162",
+        "ort": "KOETSCHACH Kronhof",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

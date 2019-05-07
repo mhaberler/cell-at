@@ -1,0 +1,128 @@
+[
+    {
+        "frequenz": "101.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "Antenne Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "104.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0302",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "514",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "514",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "514",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.9",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "Radio Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0251",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "FROHNLEITEN Schl\u00f6glmoar",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

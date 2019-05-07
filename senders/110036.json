@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "91.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "BEZAU Baumgarten",
+        "programm": "Radio Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0300",
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1259",
+        "ort": "BEZAU Baumgarten",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "frequenz": "102.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0060",
+        "ort": "KRAKAU",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "92.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0060",
+        "ort": "KRAKAU",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0060",
+        "ort": "KRAKAU",
+        "programm": "Radio Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "KRAKAU",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

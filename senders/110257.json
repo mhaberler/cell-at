@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "106.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3981",
+        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
+        "programm": "Radio 88.6",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "107.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3631",
+        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
+        "programm": "Radio Arabella",
+        "system": "H\u00f6rfunk"
+    }
+]

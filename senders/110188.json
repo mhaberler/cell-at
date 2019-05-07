@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "101.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0302",
+        "ort": "HOLZGAU Benglerwald",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0250",
+        "ort": "HOLZGAU Benglerwald",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0250",
+        "ort": "HOLZGAU Benglerwald",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "97.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0250",
+        "ort": "HOLZGAU Benglerwald",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1413",
+        "ort": "HOLZGAU Benglerwald",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "104.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0562",
+        "ort": "ACHENKIRCH 2 Reiterhof",
+        "programm": "Radio U1 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "107.1",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0562",
+        "ort": "ACHENKIRCH 2 Reiterhof",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0562",
+        "ort": "ACHENKIRCH 2 Reiterhof",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "frequenz": "107.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0302",
+        "ort": "STEYR 4 Mobilfunkmast",
+        "programm": "Radio Arabella Linz",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "90.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "STEYR 4 Mobilfunkmast",
+        "programm": "Radio \u00d624",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "92.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0501",
+        "ort": "STEYR 4 Mobilfunkmast",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    }
+]

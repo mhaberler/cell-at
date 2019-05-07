@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "89",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0050",
+        "ort": "B KLEINKIRCHHM Bacherberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "90.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0050",
+        "ort": "B KLEINKIRCHHM Bacherberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "95",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0050",
+        "ort": "B KLEINKIRCHHM Bacherberg",
+        "programm": "Radio K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "B KLEINKIRCHHM Bacherberg",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

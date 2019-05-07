@@ -1,0 +1,47 @@
+[
+    {
+        "frequenz": "103.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1000",
+        "ort": "PRUTZ Burgschrofen",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "89.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "PRUTZ Burgschrofen",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "91.2",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "PRUTZ Burgschrofen",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0200",
+        "ort": "PRUTZ Burgschrofen",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.5012",
+        "ort": "PRUTZ Burgschrofen",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

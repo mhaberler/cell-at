@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "90.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3000",
+        "ort": "OETZ Schlatt",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "94.5",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3000",
+        "ort": "OETZ Schlatt",
+        "programm": "Radio Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "99.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3000",
+        "ort": "OETZ Schlatt",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "1.9953",
+        "ort": "OETZ Schlatt",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

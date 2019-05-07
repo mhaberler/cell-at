@@ -1,0 +1,110 @@
+[
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "578",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "88.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7000",
+        "ort": "WEISSECK",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "93.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7000",
+        "ort": "WEISSECK",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7000",
+        "ort": "WEISSECK",
+        "programm": "Radio Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.7079",
+        "ort": "WEISSECK",
+        "programm": "ORF Sport Plus (MUX B)",
+        "system": "Digitaler Rundfunk"
+    }
+]

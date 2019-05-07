@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "98.4",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.1995",
+        "ort": "HERMAGOR Kreuth",
+        "programm": "KRONEHIT",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.3162",
+        "ort": "HERMAGOR Kreuth",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

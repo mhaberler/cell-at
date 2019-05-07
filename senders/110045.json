@@ -1,0 +1,38 @@
+[
+    {
+        "frequenz": "87.6",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.0004",
+        "ort": "BLUDENZ 1 D\u00fcnserberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "96",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.0004",
+        "ort": "BLUDENZ 1 D\u00fcnserberg",
+        "programm": "Radio Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "98.8",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "4.0004",
+        "ort": "BLUDENZ 1 D\u00fcnserberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "3.1623",
+        "ort": "BLUDENZ 1 D\u00fcnserberg",
+        "programm": "",
+        "system": "Digitaler Rundfunk"
+    }
+]

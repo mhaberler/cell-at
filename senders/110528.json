@@ -1,0 +1,20 @@
+[
+    {
+        "frequenz": "100.7",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0933",
+        "ort": "TRABOCH Schafberg",
+        "programm": "Antenne Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "103.3",
+        "gkey": null,
+        "layer": "2",
+        "leistung": "0.0490",
+        "ort": "TRABOCH Schafberg",
+        "programm": "Radio Gr\u00fcn Wei\u00df",
+        "system": "H\u00f6rfunk"
+    }
+]
