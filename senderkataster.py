@@ -4,6 +4,7 @@ import requests
 import pprint
 import json
 import time
+from tqdm import tqdm
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -24,7 +25,7 @@ data = r.json()
 with open('points.json', 'w') as f:
     f.write(json.dumps(data, indent=4, sort_keys=True))
 
-for point in data:
+for point in tqdm(data):
     params = {'layer': point['layer'], 'senderId': point['sender_id']}
     r = requests.post('https://www.senderkataster.at/data/getDetails', data=params)
     r.raise_for_status()
