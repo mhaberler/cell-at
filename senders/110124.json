@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "107.3",
+        "frequenz": 106.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1023",
-        "ort": "GMUNDEN 3 Gr\u00fcnberg",
-        "programm": "Freies Radio Salzkammergut",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "GERLOS 2 Gerlosberg TK-Rifu Station",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

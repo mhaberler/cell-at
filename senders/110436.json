@@ -1,11 +1,119 @@
 [
     {
-        "frequenz": "97.7",
+        "frequenz": 594,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "SCHALLER Oberegg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 91.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "\u00d62 Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3994,
+        "ort": "SAALFELDEN Huggenberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

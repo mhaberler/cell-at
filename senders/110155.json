@@ -1,29 +1,11 @@
 [
     {
-        "frequenz": "91.6",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "GROSS SOELK",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "95.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "GROSS SOELK",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "GROSS SOELK",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.4677,
+        "ort": "GRESTEN 2 Hochkogelberg",
+        "programm": "M4TV",
+        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211019,
+        "davon5g": 5.2e-05,
+        "grenzwert": 0.0025,
+        "grenzwert2": 0,
+        "grenzwert3": 0.0061,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 1.2e-05,
+        "lte2": 0,
+        "messpunkt": "Hauptplatz 16",
+        "ort": "Bruck an der Leitha",
+        "summe": 0.000147,
+        "summe2": 0,
+        "summe3": 0.000374
+    }
+]

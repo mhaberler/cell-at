@@ -1,38 +1,992 @@
 [
     {
-        "frequenz": "87.6",
+        "frequenz": 101.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "WOERGL Angerwald",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "WOERGL Angerwald",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "WOERGL Angerwald",
+        "layer": 2,
+        "leistung": 0.8,
+        "ort": "WIEN 2 Himmelhof",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 38",
+        "frequenz": 106.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "WOERGL Angerwald",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.3,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "KurierTV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Schau TV Hbb TV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 87.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.8,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 91,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0955,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.8,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "\u00d62 Wien",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Comedy Central / VIVA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "HopeTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "KRONE TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "KurierTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "LAOLA1.tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "N24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Schau TV Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "TLC",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "W24 HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "W24 Kabeltext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "W24 (MUX)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Zugang zu ATV Smart \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "WIEN 2 Himmelhof",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
         "system": "Digitaler Rundfunk"
     }
 ]

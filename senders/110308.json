@@ -1,623 +1,119 @@
 [
     {
-        "frequenz": "100.9",
+        "frequenz": 578,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.6001",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "103.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.9550",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "106.3",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "1.0000",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Radio 88.6",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "546",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "kabel eins austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "546",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "sixx Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV2",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "578",
+        "frequenz": 88.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LOBMING",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "722",
+        "frequenz": 94.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LOBMING",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LOBMING",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ProSieben Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "89",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6001",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.9999",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Radio Burgenland",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "SRF 1",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "SRF 2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "SUPER RTL",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 52",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "ORF 2 (Burgenland)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
+        "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF 2 (Wien)",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
+        "programm": "ORF 2 (Steiermark)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 52",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "KRONEHIT (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Radio \u00d624 (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "19.9526",
-        "ort": "MATTERSBURG Heuberg",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "LOBMING",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

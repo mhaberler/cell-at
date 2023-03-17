@@ -1,29 +1,1145 @@
 [
     {
-        "frequenz": "102.5",
+        "frequenz": 100.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "MARIA SAAL",
+        "layer": 2,
+        "leistung": 100,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Life Radio (Ober\u00f6sterreich)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 187.07,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 650,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "KurierTV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Schau TV Hbb TV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 666,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 666,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "LINZ 1 Lichtenberg",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "87.7",
+        "frequenz": 90.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "MARIA SAAL",
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 14.1589,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "\u00d62 Ober\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Arabella Linz",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "LINZ 1 Lichtenberg",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.8",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "MARIA SAAL",
-        "programm": "Radio K\u00e4rnten",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "BibelTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "BibelTV Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "DORF TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "KurierTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "LT 1 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "LT1 Privatfernsehen",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Schau TV Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Welt",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Welt Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 50.1187,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "LINZ 1 Lichtenberg",
+        "programm": "Welle 1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
     }
 ]

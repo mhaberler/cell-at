@@ -1,11 +1,1271 @@
 [
     {
-        "frequenz": "104.3",
+        "frequenz": 180.06,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0309",
-        "ort": "YBBS DONAU 3 Blindenmarkt",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Maria (Satellit)",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "KurierTV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Schau TV Hbb TV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Arabella GOLD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ARB\u00d6-Verkehrsradio - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "CITY23",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "EPG-RTG",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "EWF-RTG",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "LoungeFM",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "lulu.fm",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "MEGA Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "MOT-Slideshow",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "NOW Radio - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Arabella 92,9",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RADIO FANTASYmix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Radieschen",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RADIO RU",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RadioSOL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RADIO VM1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "SlideShow - RTG",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Sout Al Khaleej",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Technikum City",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 11C",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 12.5893,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Traffic Announcement - RTG",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.2379,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Comedy Central / VIVA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "HopeTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "KRONE TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "KurierTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "LAOLA1.tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "N24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Schau TV Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "TLC",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "W24 HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "W24 Kabeltext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "W24 (MUX)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Zugang zu ATV Smart \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.7077,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "WIEN 9 DC Tower 1",
+        "programm": "Welle 1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
     }
 ]

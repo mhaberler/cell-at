@@ -1,20 +1,18 @@
 [
     {
-        "frequenz": "107.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.3548",
-        "ort": "JENBACH 2 Larchkopf",
-        "programm": "Life Radio (Tirol)",
-        "system": "H\u00f6rfunk"
+        "gkey": 110215,
+        "layer": 1,
+        "leistung": 130.45303742538061,
+        "sharing": 0,
+        "struktur": "e",
+        "system": "UMTS/LTE/5G"
     },
     {
-        "frequenz": "89.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.3548",
-        "ort": "JENBACH 2 Larchkopf",
-        "programm": "Radio U1 Tirol",
-        "system": "H\u00f6rfunk"
+        "gkey": 110215,
+        "layer": 1,
+        "leistung": 135,
+        "sharing": 1,
+        "struktur": "m",
+        "system": "GSM/UMTS/LTE"
     }
 ]

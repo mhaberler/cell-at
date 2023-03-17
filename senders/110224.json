@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "105.7",
+        "frequenz": 634,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "KALS Kals Tembler",
-        "programm": "Radio Osttirol",
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "IRDNING Gatschberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 91,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "IRDNING Gatschberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "IRDNING Gatschberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "IRDNING Gatschberg",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "IRDNING Gatschberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

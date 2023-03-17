@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211005,
+        "davon5g": 0.000314,
+        "grenzwert": 0.0376,
+        "grenzwert2": 0,
+        "grenzwert3": 0.045,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0.000332852,
+        "lte2": 0,
+        "messpunkt": "Koloman-Wallisch-Platz 6",
+        "ort": "Bruck an der Mur",
+        "summe": 0.002132,
+        "summe2": 0,
+        "summe3": 0.002444
+    }
+]

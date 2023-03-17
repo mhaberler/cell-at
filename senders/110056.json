@@ -1,20 +1,11 @@
 [
     {
-        "frequenz": "91.5",
+        "frequenz": 106.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "BREGENZ 3 Gebhardsberg",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0631",
-        "ort": "BREGENZ 3 Gebhardsberg",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.1148,
+        "ort": "BRAUNAU Schwand Silo",
+        "programm": "Life Radio (Ober\u00f6sterreich)",
         "system": "H\u00f6rfunk"
     }
 ]

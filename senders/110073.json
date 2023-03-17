@@ -1,29 +1,11 @@
 [
     {
-        "frequenz": "100.8",
+        "frequenz": 106.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0030",
-        "ort": "DONNERSBACHWALD",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "89.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0030",
-        "ort": "DONNERSBACHWALD",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0030",
-        "ort": "DONNERSBACHWALD",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DEUTSCHLANDSBERG 3 Ulrichsberg",
+        "programm": "Soundportal",
         "system": "H\u00f6rfunk"
     }
 ]

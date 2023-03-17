@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090812,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.008939,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0,
+        "messpunkt": "Stadtplatz (Fu\u00dfg\u00e4ngerzone)",
+        "ort": "Braunau am Inn",
+        "summe": 0.000622,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

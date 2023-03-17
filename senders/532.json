@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20220826,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0035654,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 1.1e-05,
+        "lte2": 0,
+        "messpunkt": "Stadtplatz 12, Stadtplatz 12",
+        "ort": "Pregarten",
+        "summe": 0.0002471,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

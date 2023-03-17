@@ -1,29 +1,47 @@
 [
     {
-        "frequenz": "87.7",
+        "frequenz": 102,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0020",
-        "ort": "HIMMELBERG",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.2",
+        "frequenz": 103.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0020",
-        "ort": "HIMMELBERG",
-        "programm": "Radio K\u00e4rnten",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Magic Hit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "99.3",
+        "frequenz": 105.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0020",
-        "ort": "HIMMELBERG",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.8913,
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Radio U1 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 89.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "HAIMING Haiminger Alm",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     }
 ]

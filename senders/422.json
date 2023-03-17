@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211029,
+        "davon5g": 2.3e-05,
+        "grenzwert": 0.0131,
+        "grenzwert2": 0,
+        "grenzwert3": 0.00801,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0.000251237,
+        "lte2": 0,
+        "messpunkt": "Hauptplatz 10",
+        "ort": "Perg",
+        "summe": 0.000754,
+        "summe2": 0,
+        "summe3": 0.000422
+    }
+]

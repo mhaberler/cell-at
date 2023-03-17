@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211105,
+        "davon5g": 2e-05,
+        "grenzwert": 0.0008,
+        "grenzwert2": 0,
+        "grenzwert3": 4e-05,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 2.318e-06,
+        "lte2": 0,
+        "messpunkt": "Schmiedgasse 17",
+        "ort": "Feldkirch",
+        "summe": 5.6e-05,
+        "summe2": 0,
+        "summe3": 7.1e-05
+    }
+]

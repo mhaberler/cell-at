@@ -1,11 +1,956 @@
 [
     {
-        "frequenz": "K 21",
+        "frequenz": 102.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "6.6069",
-        "ort": "BRUCK MUR 3 Mugl",
-        "programm": "ATV Das Magazin",
+        "layer": 2,
+        "leistung": 19.9986,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 105.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 19.9526,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Antenne Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 180.06,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 618,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 87.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 19.9986,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 19.9986,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 19.9986,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 56.2341,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.6684,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5D",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "BRUCK MUR 1 Mugel",
+        "programm": "Welle 1 \u00d6sterreich",
         "system": "Digitaler Rundfunk"
     }
 ]

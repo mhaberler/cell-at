@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "98.8",
+        "frequenz": 103.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "OBERPULLENDORF Mobilkom Mast",
-        "programm": "Radio Gymnasium",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 514,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 95,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0398,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0398,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0398,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "NEUBERG MUERZ Schneealpe",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

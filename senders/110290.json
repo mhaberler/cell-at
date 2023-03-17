@@ -1,20 +1,29 @@
 [
     {
-        "frequenz": "89.2",
+        "frequenz": 91.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "LINZ 2 Freinberg (RK)",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.0038,
+        "ort": "LEOBEN GOESS H\u00e4uselberg",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "91.8",
+        "frequenz": 97.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3020",
-        "ort": "LINZ 2 Freinberg (RK)",
-        "programm": "Welle 1 Linz",
+        "layer": 2,
+        "leistung": 0.0038,
+        "ort": "LEOBEN GOESS H\u00e4uselberg",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0038,
+        "ort": "LEOBEN GOESS H\u00e4uselberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     }
 ]

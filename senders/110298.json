@@ -1,38 +1,11 @@
 [
     {
-        "frequenz": "90.5",
+        "frequenz": 107.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LUNZ 1 Lunzberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LUNZ 1 Lunzberg",
-        "programm": "Radio Nieder\u00f6sterreich",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LUNZ 1 Lunzberg",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LUNZ 1 Lunzberg",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "LIENZ 3 Stronach",
+        "programm": "Radio Osttirol",
         "system": "H\u00f6rfunk"
     }
 ]

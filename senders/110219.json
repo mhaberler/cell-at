@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "96.6",
+        "frequenz": 105.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "JENNERSDORF 2 Bewag RF",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "INNSBRUCK 2 Seegrube-Nordkettenbahn",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     }
 ]

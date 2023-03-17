@@ -1,20 +1,29 @@
 [
     {
-        "frequenz": "106.2",
+        "frequenz": 100.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 0.2455,
+        "ort": "KNITTELFELD 2 Feistritzer Wald",
+        "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "107.1",
+        "frequenz": 101.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3631",
-        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
-        "programm": "Radio Arabella",
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "KNITTELFELD 2 Feistritzer Wald",
+        "programm": "Gr\u00fcn Wei\u00df",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 107.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2399,
+        "ort": "KNITTELFELD 2 Feistritzer Wald",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

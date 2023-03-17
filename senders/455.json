@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211104,
+        "davon5g": 0.000158,
+        "grenzwert": 0.0205,
+        "grenzwert2": 0,
+        "grenzwert3": 0.025,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0.000325302,
+        "lte2": 0,
+        "messpunkt": "Werdenbergerstra\u00dfe 47",
+        "ort": "Bludenz",
+        "summe": 0.001133,
+        "summe2": 0,
+        "summe3": 0.00147
+    }
+]

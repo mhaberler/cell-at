@@ -1,29 +1,38 @@
 [
     {
-        "frequenz": "102.7",
+        "frequenz": 104.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0500",
-        "ort": "FLEISS NORD",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "FELDKIRCH 2 Auf der Egg",
+        "programm": "Proton",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "87.6",
+        "frequenz": 106.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0500",
-        "ort": "FLEISS NORD",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.0871,
+        "ort": "FELDKIRCH 2 Auf der Egg",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "97",
+        "frequenz": 90.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0500",
-        "ort": "FLEISS NORD",
-        "programm": "Radio Steiermark",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "FELDKIRCH 2 Auf der Egg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 91.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0955,
+        "ort": "FELDKIRCH 2 Auf der Egg",
+        "programm": "Radio Maria (Walgau)",
         "system": "H\u00f6rfunk"
     }
 ]

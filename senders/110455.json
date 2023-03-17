@@ -1,20 +1,758 @@
 [
     {
-        "frequenz": "102.9",
+        "frequenz": 538,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "SCHWARZACH PG Gern",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 538,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 538,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 610,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 610,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Radio Maria (Satellit)",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "105.3",
+        "frequenz": 642,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3162",
-        "ort": "SCHWARZACH PG Gern",
-        "programm": "Radio \u00d624",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SCHLADMING 2 Ramsau",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
     }
 ]

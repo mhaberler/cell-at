@@ -1,38 +1,11 @@
 [
     {
-        "frequenz": "89.7",
+        "frequenz": "K 21",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.2500",
-        "ort": "VILLACH Finkenstein",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "94.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.2500",
-        "ort": "VILLACH Finkenstein",
-        "programm": "Radio K\u00e4rnten",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.2500",
-        "ort": "VILLACH Finkenstein",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "7.0795",
-        "ort": "VILLACH Finkenstein",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "TURRACH 2 Hirschenkogel",
+        "programm": "ATV - Magazin \"Murtal\", erg\u00e4nzt um Wettereinblend",
         "system": "Digitaler Rundfunk"
     }
 ]

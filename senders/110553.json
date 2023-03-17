@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "87.9",
+        "frequenz": 107,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "VOECKLABRUCK 2 Kronberg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UEBELBACH Mobilfunkmast Palpas",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

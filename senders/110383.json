@@ -1,29 +1,128 @@
 [
     {
-        "frequenz": "90.7",
+        "frequenz": 530,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "POECKSTEIN",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.3",
+        "frequenz": 93.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "POECKSTEIN",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "95.9",
+        "frequenz": 95.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "POECKSTEIN",
-        "programm": "Radio K\u00e4rnten",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "PATERGASSEN Pla\u00dfbichl",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

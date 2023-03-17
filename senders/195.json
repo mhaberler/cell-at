@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090819,
+        "datum2": 20170701,
+        "datum3": 20211005,
+        "davon5g": 9.6e-05,
+        "grenzwert": 0.004395,
+        "grenzwert2": 0.0128,
+        "grenzwert3": 0.012,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 4.8e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "Weiz ",
+        "summe": 0.000247,
+        "summe2": 0.000645,
+        "summe3": 0.000682
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090507,
+        "datum2": 20170701,
+        "datum3": 20211006,
+        "davon5g": 2.6e-05,
+        "grenzwert": 0.006632,
+        "grenzwert2": 0.0044,
+        "grenzwert3": 0.00801,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 6.4e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "Mattersburg",
+        "summe": 0.000382,
+        "summe2": 0.000235,
+        "summe3": 0.000391
+    }
+]

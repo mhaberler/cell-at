@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071011,
+        "datum2": 20170701,
+        "datum3": 20211014,
+        "davon5g": 3.9e-05,
+        "grenzwert": 0.298151,
+        "grenzwert2": 0.4387,
+        "grenzwert3": 0.15701,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 2.4e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "Lienz",
+        "summe": 0.015252,
+        "summe2": 0.020315,
+        "summe3": 0.00933
+    }
+]

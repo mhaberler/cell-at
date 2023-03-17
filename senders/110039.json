@@ -1,11 +1,119 @@
 [
     {
-        "frequenz": "104.4",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "BIRKFELD 2 Mobilfunk Mast",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 91.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d62 Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1259,
+        "ort": "BEZAU Baumgarten",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

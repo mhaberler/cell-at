@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20070921,
+        "datum2": 20170701,
+        "datum3": 20211019,
+        "davon5g": 0.000148,
+        "grenzwert": 0.02265,
+        "grenzwert2": 0.0371,
+        "grenzwert3": 0.014,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 1e-05,
+        "messpunkt": "Hauptplatz 41",
+        "ort": "Neusiedl/See",
+        "summe": 0.001962,
+        "summe2": 0.003409,
+        "summe3": 0.000899
+    }
+]

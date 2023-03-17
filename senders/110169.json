@@ -1,38 +1,128 @@
 [
     {
-        "frequenz": "103.2",
+        "frequenz": 514,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HALLWANG",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.05,
+        "ort": "GUTENSTEIN Residenzberg",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "90.5",
+        "frequenz": 93.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HALLWANG",
+        "layer": 2,
+        "leistung": 0.05,
+        "ort": "GUTENSTEIN Residenzberg",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.3",
+        "frequenz": 96.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "HALLWANG",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.05,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.4",
+        "frequenz": 99.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HALLWANG",
-        "programm": "Radio Salzburg",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GUTENSTEIN Residenzberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

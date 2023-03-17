@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "95.5",
+        "frequenz": 634,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "S POELTEN 5 Reichgr\u00fcben",
-        "programm": "Radio Maria (S POELTEN)",
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 90.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "S MICHAEL OSTM Liesingberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

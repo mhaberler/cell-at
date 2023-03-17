@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "102.5",
+        "frequenz": 89.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "RADSTADT Jakobsberg",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "POYSDORF 2 Pfarrkirche",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 91.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "POYSDORF 2 Pfarrkirche",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "POYSDORF 2 Pfarrkirche",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     }
 ]

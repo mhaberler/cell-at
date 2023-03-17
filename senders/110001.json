@@ -1,72 +1,45 @@
 [
     {
-        "frequenz": "107.1",
+        "frequenz": 107.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ABTENAU Buchberg",
-        "programm": "KRONEHIT",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "562",
+        "frequenz": 562,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "ABTENAU Buchberg",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "562",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "ABTENAU Buchberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "562",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "ABTENAU Buchberg",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "562",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "87.6",
+        "frequenz": 87.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ABTENAU Buchberg",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.3",
+        "frequenz": 93.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ABTENAU Buchberg",
-        "programm": "Radio Salzburg",
+        "programm": "\u00d62 Salzburg",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "99.8",
+        "frequenz": 99.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ABTENAU Buchberg",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
@@ -74,8 +47,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
@@ -83,8 +56,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
@@ -92,8 +65,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
@@ -101,8 +74,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
@@ -110,8 +83,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "ORF 2 (Ober\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
@@ -119,8 +92,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "ORF 2 (Salzburg)",
         "system": "Digitaler Rundfunk"
@@ -128,8 +101,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
@@ -137,8 +110,8 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
@@ -146,10 +119,10 @@
     {
         "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
+        "layer": 2,
+        "leistung": 0.5012,
         "ort": "ABTENAU Buchberg",
-        "programm": "ORF Sport Plus (MUX B)",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

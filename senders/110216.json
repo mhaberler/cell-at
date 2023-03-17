@@ -1,11 +1,1082 @@
 [
     {
-        "frequenz": "104.1",
+        "frequenz": 101.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0955",
-        "ort": "JENBACH 3 Kanzelkehre",
-        "programm": "Welle 1 Innsbruck",
+        "layer": 2,
+        "leistung": 44.9987,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "FM4",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 101.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 176.64,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 482,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 482,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 482,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 482,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 482,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 482,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 522,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 522,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 522,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.9987,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.9987,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 44.9987,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Comedy Central / VIVA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "HopeTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "HopeTV Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Tirol TV GmbH HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Welt",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Welt Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Zugang zu ATV Smart \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 63.0957,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "INNSBRUCK 1 Patscherkofel",
+        "programm": "Welle 1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,47 +1,11 @@
 [
     {
-        "frequenz": "87.6",
+        "frequenz": 102.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "HEILIGENBLUT",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "HAESELGEHR 2 Hei\u00dfmahd",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.3",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "HEILIGENBLUT",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "HEILIGENBLUT",
-        "programm": "Radio K\u00e4rnten",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "HEILIGENBLUT",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.2512",
-        "ort": "HEILIGENBLUT",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "88.2",
+        "frequenz": 104.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1778",
-        "ort": "DEUTSCHLANDSBERG 2 Burg Landsberg",
-        "programm": "Njoy Radio",
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "DALAAS",
+        "programm": "Antenne Vorarlberg",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "DALAAS",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "DALAAS",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "DALAAS",
+        "programm": "\u00d62 Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "DALAAS",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

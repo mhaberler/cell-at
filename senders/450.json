@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211102,
+        "davon5g": 1.7e-05,
+        "grenzwert": 0.004,
+        "grenzwert2": 0,
+        "grenzwert3": 0.00903,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 5.881e-06,
+        "lte2": 0,
+        "messpunkt": "Rathausstr. 9",
+        "ort": "Imst",
+        "summe": 0.00037,
+        "summe2": 0,
+        "summe3": 0.000532
+    }
+]

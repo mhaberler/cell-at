@@ -1,11 +1,146 @@
 [
     {
-        "frequenz": "101.3",
+        "frequenz": 100.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "DAMUELS Hahnenkopf",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.3467,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "radio AGORA 105 l 5",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 105.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3467,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3467,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3467,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3467,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.7943,
+        "ort": "BRUECKL Lippekogel",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

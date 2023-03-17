@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20220817,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0557457,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 5.3e-05,
+        "lte2": 0,
+        "messpunkt": "Kurzwiesenweg 1 / B\u00fcrgerspitalgasse, Bundesgymnasium",
+        "ort": "Eisenstadt",
+        "summe": 0.004674,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

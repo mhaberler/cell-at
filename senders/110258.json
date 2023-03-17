@@ -1,29 +1,20 @@
 [
     {
-        "frequenz": "106.6",
+        "frequenz": 105.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "KREMSMUENSTER Gusterberg",
-        "programm": "Radio Steyr",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "KNITTELFELD 3 Tremmelberg",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.6",
+        "frequenz": "K 21",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "KREMSMUENSTER Gusterberg",
-        "programm": "Radio \u00d624",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "KREMSMUENSTER Gusterberg",
-        "programm": "Radio Arabella Linz",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 1.5488,
+        "ort": "KNITTELFELD 3 Tremmelberg",
+        "programm": "ATV - Das Magazin",
+        "system": "Digitaler Rundfunk"
     }
 ]

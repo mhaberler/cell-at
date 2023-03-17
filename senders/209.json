@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090826,
+        "datum2": 20170701,
+        "datum3": 20211102,
+        "davon5g": 0.000182,
+        "grenzwert": 0.005525,
+        "grenzwert2": 0.008,
+        "grenzwert3": 0.015,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 6e-06,
+        "messpunkt": "Obermarkt",
+        "ort": "Reutte",
+        "summe": 0.000279,
+        "summe2": 0.000413,
+        "summe3": 0.000873
+    }
+]

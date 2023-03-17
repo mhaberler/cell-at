@@ -1,47 +1,884 @@
 [
     {
-        "frequenz": "90.9",
+        "frequenz": 490,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0250",
-        "ort": "GREIFENBURG Egg",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "KurierTV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Schau TV Hbb TV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 514,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 618,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "BibelTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Comedy Central / VIVA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "KRONE TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "KurierTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Schau TV Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Welt",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
         "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "94.2",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1479",
-        "ort": "GREIFENBURG Egg",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.9",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0250",
-        "ort": "GREIFENBURG Egg",
-        "programm": "Radio K\u00e4rnten",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0250",
-        "ort": "GREIFENBURG Egg",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
         "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 38",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.2589",
-        "ort": "GREIFENBURG Egg",
-        "programm": "",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "GRAZ 4 F\u00fcrstenstand",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
         "system": "Digitaler Rundfunk"
     }
 ]

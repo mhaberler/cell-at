@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "100.9",
+        "frequenz": 107.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0589",
-        "ort": "WEIZ 2 FW-Schlauchturm",
-        "programm": "Radio Soundportal (Graz)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "WAIDRING 2 Sonnwendstrasse",
+        "programm": "Life Radio (Tirol)",
         "system": "H\u00f6rfunk"
     }
 ]

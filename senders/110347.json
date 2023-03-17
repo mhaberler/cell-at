@@ -1,38 +1,119 @@
 [
     {
-        "frequenz": "100.9",
+        "frequenz": 100.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "NOETSCH",
-        "programm": "Radio Agora",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "107",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "NOETSCH",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "89.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "NOETSCH",
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "MUERZSTEG",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "95.6",
+        "frequenz": 650,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "NOETSCH",
-        "programm": "Radio K\u00e4rnten",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 92.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "MUERZSTEG",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "MUERZSTEG",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MUERZSTEG",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

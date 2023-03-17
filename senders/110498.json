@@ -1,578 +1,128 @@
 [
     {
-        "frequenz": "474",
+        "frequenz": 562,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "474",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV2",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "474",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "474",
+        "frequenz": 88.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "474",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "554",
+        "frequenz": 92.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "554",
+        "frequenz": 94.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
+        "programm": "\u00d62 Salzburg",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "610",
+        "frequenz": 96.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "746",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "kabel eins austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "746",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "sixx Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "770",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "770",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ProSieben Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "770",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "770",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "770",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "SRF 1",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 21",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "SRF 2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF 2 (Wien)",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 38",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 38",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 38",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 38",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "SUPER RTL",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 55",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 55",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 55",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 55",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "KRONEHIT (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Radio \u00d624 (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 58",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.2611",
-        "ort": "S POELTEN 4 Klangturm",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG B\u00e4renkogel",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

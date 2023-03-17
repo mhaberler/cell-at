@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20220718,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0179866,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0.0001038,
+        "lte2": 0,
+        "messpunkt": "Radniger Str. 2, Kindergarten",
+        "ort": "Hermagor",
+        "summe": 0.0010469,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

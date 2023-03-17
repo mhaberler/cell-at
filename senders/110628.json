@@ -1,20 +1,11 @@
 [
     {
-        "frequenz": "94.9",
+        "frequenz": 105.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "ZWETTL NOE 2 EVN Mast",
-        "programm": "Radio Arabella",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "ZWETTL NOE 2 EVN Mast",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "WINKLERN 2 Penzelberg",
+        "programm": "Radio Osttirol",
         "system": "H\u00f6rfunk"
     }
 ]

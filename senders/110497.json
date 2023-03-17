@@ -1,29 +1,29 @@
 [
     {
-        "frequenz": "100.8",
+        "frequenz": 100.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.5849",
-        "ort": "S POELTEN 2 Schildberg",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 0.4677,
+        "ort": "S MICHAEL LUNG 2 Aineck",
+        "programm": "Radio Alpina",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.2",
+        "frequenz": 102.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "S POELTEN 2 Schildberg",
-        "programm": "98.3 Superfly",
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "S MICHAEL LUNG 2 Aineck",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.3",
+        "frequenz": 105.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.6310",
-        "ort": "S POELTEN 2 Schildberg",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "S MICHAEL LUNG 2 Aineck",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

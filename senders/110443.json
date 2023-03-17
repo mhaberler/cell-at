@@ -1,20 +1,11 @@
 [
     {
-        "frequenz": "K 48",
+        "frequenz": 89.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.6915",
-        "ort": "SCHLADMING 5 Planai",
-        "programm": "Planai TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 48",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.6915",
-        "ort": "SCHLADMING 5 Planai",
-        "programm": "Planai TV",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.0224,
+        "ort": "SALZBURG 8 M\u00f6nchsberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
     }
 ]

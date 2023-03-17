@@ -1,38 +1,29 @@
 [
     {
-        "frequenz": "103.4",
+        "frequenz": 89.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "S JOHANN TIR Harschbichl",
-        "programm": "Life Radio (Tirol)",
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "SELLRAIN",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "105.1",
+        "frequenz": 91.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "S JOHANN TIR Harschbichl",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "SELLRAIN",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "87.7",
+        "frequenz": 96,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0562",
-        "ort": "S JOHANN TIR Harschbichl",
-        "programm": "Radio U1 Tirol",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "90.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0589",
-        "ort": "S JOHANN TIR Harschbichl",
-        "programm": "Antenne Tirol (Unterland)",
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "SELLRAIN",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     }
 ]

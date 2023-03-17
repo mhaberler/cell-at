@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20221013,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0057336,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 2.42e-05,
+        "lte2": 0,
+        "messpunkt": "Lotte Lenya Platz, Park",
+        "ort": "Wien",
+        "summe": 0.0003916,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

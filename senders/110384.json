@@ -1,83 +1,92 @@
 [
     {
-        "frequenz": "514",
+        "frequenz": 554,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "514",
+        "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "514",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
         "programm": "ORF 2 (Burgenland)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
-        "programm": "ORF 2 (K\u00e4rnten)",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "POELLAU HARTBG",
-        "programm": "ORF Sport Plus (MUX B)",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PAUDORF",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

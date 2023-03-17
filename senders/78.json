@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090810,
+        "datum2": 20170701,
+        "datum3": 20211015,
+        "davon5g": 1.2e-05,
+        "grenzwert": 0.000388,
+        "grenzwert2": 0.0003,
+        "grenzwert3": 4e-05,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 2e-06,
+        "messpunkt": "Pfarrgasse",
+        "ort": "M\u00f6dling",
+        "summe": 2.5e-05,
+        "summe2": 1.6e-05,
+        "summe3": 3.3e-05
+    }
+]

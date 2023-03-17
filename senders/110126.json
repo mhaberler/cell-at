@@ -1,11 +1,18 @@
 [
     {
-        "frequenz": "105",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "GOESTLING YBBS Bromreit",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
+        "gkey": 110126,
+        "layer": 1,
+        "leistung": 135,
+        "sharing": 1,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE"
+    },
+    {
+        "gkey": 110126,
+        "layer": 1,
+        "leistung": 315.0733097566419,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE/5G"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090907,
+        "datum2": 20170701,
+        "datum3": 20211009,
+        "davon5g": 6.5e-05,
+        "grenzwert": 1e-06,
+        "grenzwert2": 0.0047,
+        "grenzwert3": 0.00501,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 3.9e-05,
+        "messpunkt": "Hauptplatz ",
+        "ort": "St. Veit an der Glan",
+        "summe": 6.5e-05,
+        "summe2": 0.000344,
+        "summe3": 0.000353
+    }
+]

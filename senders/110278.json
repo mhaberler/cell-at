@@ -1,38 +1,38 @@
 [
     {
-        "frequenz": "87.9",
+        "frequenz": 102.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.0024",
-        "ort": "LEUTASCH Moosalm",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "LAENGENFELD 2 Burgstein",
+        "programm": "Radio U1 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "95.6",
+        "frequenz": 107.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.0024",
-        "ort": "LEUTASCH Moosalm",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "LAENGENFELD 2 Burgstein",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.8",
+        "frequenz": 87.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.0024",
-        "ort": "LEUTASCH Moosalm",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "LAENGENFELD 2 Burgstein",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 44",
+        "frequenz": 94,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.0000",
-        "ort": "LEUTASCH Moosalm",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "LAENGENFELD 2 Burgstein",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
     }
 ]

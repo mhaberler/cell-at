@@ -1,11 +1,38 @@
 [
     {
-        "frequenz": "107.1",
+        "frequenz": 107.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3162",
-        "ort": "ZELL AM SEE 2 Bruck Glocknerstra\u00dfe",
-        "programm": "Welle 1 Salzburg",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "WINDISCHBLEIBERG 1",
+        "programm": "radio AGORA 105 l 5",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 88.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "WINDISCHBLEIBERG 1",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "WINDISCHBLEIBERG 1",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "WINDISCHBLEIBERG 1",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     }
 ]

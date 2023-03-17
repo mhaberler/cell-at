@@ -1,11 +1,983 @@
 [
     {
-        "frequenz": "105.6",
+        "frequenz": 101.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.9953",
-        "ort": "SCHLADMING 5 RIFU Planai",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 7,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "\u00d62 Ober\u00f6sterreich",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 101.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Austria",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.0076,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Welle 1 Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 176.64,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 538,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 538,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 538,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 562,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 610,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 610,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 642,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 90.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.267,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ENERGY",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "\u00d62 Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 29",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 39.8107,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 42",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 25.1189,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 31.6228,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 5B",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 4.4668,
+        "ort": "SALZBURG Gaisberg",
+        "programm": "Welle 1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
     }
 ]

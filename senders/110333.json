@@ -1,146 +1,38 @@
 [
     {
-        "frequenz": "101",
+        "frequenz": 102.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
+        "layer": 2,
+        "leistung": 0.016,
+        "ort": "METNITZ WEST",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "594",
+        "frequenz": 87.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
+        "layer": 2,
+        "leistung": 0.016,
+        "ort": "METNITZ WEST",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "594",
+        "frequenz": 89.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "METNITZ WEST",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "594",
+        "frequenz": 94.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "91.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.016,
+        "ort": "METNITZ WEST",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "Radio Salzburg",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF 2 (Ober\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF 2 (Salzburg)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF eins",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "MUEHLBACH HKG Brennerk\u00f6pfl",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
     }
 ]

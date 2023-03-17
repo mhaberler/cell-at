@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "102.9",
+        "frequenz": 92.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3020",
-        "ort": "KITZBUEHEL 2 Hahnenkamm",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "KALS Pradel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "KALS Pradel",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "KALS Pradel",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     }
 ]

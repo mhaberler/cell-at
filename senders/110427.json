@@ -1,29 +1,11 @@
 [
     {
-        "frequenz": "95.2",
+        "frequenz": 107.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0708",
-        "ort": "SALZBURG 5 Nonntal",
-        "programm": "LoungeFM (Salzburg)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.3",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0224",
-        "ort": "SALZBURG 5 Nonntal",
-        "programm": "Radiofabrik",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0224",
-        "ort": "SALZBURG 5 Nonntal",
-        "programm": "Klassik Radio (Salzburg)",
+        "layer": 2,
+        "leistung": 0.2818,
+        "ort": "REUTTE 3 PTA Funkstation Hahnenkamm",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

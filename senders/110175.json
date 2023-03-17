@@ -1,137 +1,18 @@
 [
     {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
+        "gkey": 110175,
+        "layer": 1,
+        "leistung": 450.9637566681976,
+        "sharing": 1,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE"
     },
     {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF 2 (Wien)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF eins",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HINTERBRUEHL R\u00f6merwand",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
+        "gkey": 110175,
+        "layer": 1,
+        "leistung": 223.8841679594119,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "UMTS/LTE/5G"
     }
 ]

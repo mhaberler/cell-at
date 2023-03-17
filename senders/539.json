@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20221006,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0018343,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 4.4e-06,
+        "lte2": 0,
+        "messpunkt": "Dorf 20, Parkplatz vor Hauptschule und Alten.- und Pflegeheim",
+        "ort": "K\u00f6ssen",
+        "summe": 0.0001038,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211006,
+        "davon5g": 6e-05,
+        "grenzwert": 0.0046,
+        "grenzwert2": 0,
+        "grenzwert3": 0.007,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 2e-06,
+        "lte2": 0,
+        "messpunkt": "Hauptplatz 1 - 2",
+        "ort": "Oberpullendorf",
+        "summe": 0.000346,
+        "summe2": 0,
+        "summe3": 0.000409
+    }
+]

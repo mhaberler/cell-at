@@ -1,18 +1,18 @@
 [
     {
-        "gkey": "302738",
-        "layer": "1",
-        "leistung": "135",
-        "sharing": "1",
-        "struktur": "d",
-        "system": "GSM/LTE/UMTS"
-    },
-    {
-        "gkey": "302738",
-        "layer": "1",
-        "leistung": "158.210342397741",
-        "sharing": "1",
+        "gkey": 302738,
+        "layer": 1,
+        "leistung": 135,
+        "sharing": 1,
         "struktur": "d",
         "system": "GSM/UMTS/LTE"
+    },
+    {
+        "gkey": 302738,
+        "layer": 1,
+        "leistung": 308.79290482728953,
+        "sharing": 1,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE/5G"
     }
 ]

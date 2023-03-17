@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090907,
+        "datum2": 20170701,
+        "datum3": 20211009,
+        "davon5g": 2.2e-05,
+        "grenzwert": 1e-06,
+        "grenzwert2": 0.0011,
+        "grenzwert3": 0.00103,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 1.5e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "Feldkirchen",
+        "summe": 5.3e-05,
+        "summe2": 7.4e-05,
+        "summe3": 0.000134
+    }
+]

@@ -1,11 +1,92 @@
 [
     {
-        "frequenz": "100",
+        "frequenz": 594,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "HOPFGARTEN DEF 2 St. Leonhard",
-        "programm": "Radio Osttirol",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIRSCHBACH",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

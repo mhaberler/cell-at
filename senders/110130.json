@@ -1,11 +1,137 @@
 [
     {
-        "frequenz": "107.5",
+        "frequenz": 530,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0589",
-        "ort": "GOSAU 2 Zwieselalm",
-        "programm": "Freies Radio Salzkammergut",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.008,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.008,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0132,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.008,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "GMUEND KTN 1 Schlossbichl",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

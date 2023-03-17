@@ -1,38 +1,29 @@
 [
     {
-        "frequenz": "88.6",
+        "frequenz": 106.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "LATERNS Gischlangs",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
+        "programm": "Radio 88.6",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.9",
+        "frequenz": 107.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "LATERNS Gischlangs",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 1.4125,
+        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
+        "programm": "Radio Arabella",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.5",
+        "frequenz": 87.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "LATERNS Gischlangs",
-        "programm": "Radio Vorarlberg",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KREMS Kalorisches Kraftwerk Thei\u00df",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 40",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "LATERNS Gischlangs",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

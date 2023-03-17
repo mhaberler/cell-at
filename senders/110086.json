@@ -1,29 +1,119 @@
 [
     {
-        "frequenz": "88.9",
+        "frequenz": 103,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "EHRWALD 2 Hohenrain",
+        "layer": 2,
+        "leistung": 0.04,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 610,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 91.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.04,
+        "ort": "EBEN Zw\u00f6lferkopf",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.6",
+        "frequenz": 93.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "EHRWALD 2 Hohenrain",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.04,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "99",
+        "frequenz": "K 38",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "EHRWALD 2 Hohenrain",
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
         "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EBEN Zw\u00f6lferkopf",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

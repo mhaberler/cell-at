@@ -1,26 +1,26 @@
 [
     {
-        "gkey": "301155",
-        "layer": "1",
-        "leistung": "135",
-        "sharing": "1",
+        "gkey": 301155,
+        "layer": 1,
+        "leistung": 259.69901270931337,
+        "sharing": 0,
         "struktur": "d",
-        "system": "GSM/LTE/UMTS"
+        "system": "GSM/UMTS/LTE/5G"
     },
     {
-        "gkey": "301155",
-        "layer": "1",
-        "leistung": "35.729751497041",
-        "sharing": "1",
+        "gkey": 301155,
+        "layer": 1,
+        "leistung": 275.6177203019796,
+        "sharing": 1,
         "struktur": "d",
-        "system": "UMTS"
+        "system": "GSM/UMTS/LTE/5G"
     },
     {
-        "gkey": "301155",
-        "layer": "1",
-        "leistung": "141.97",
-        "sharing": "1",
+        "gkey": 301155,
+        "layer": 1,
+        "leistung": 135,
+        "sharing": 1,
         "struktur": "d",
-        "system": "2G/3G/4G"
+        "system": "GSM/UMTS/LTE"
     }
 ]

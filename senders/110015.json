@@ -1,20 +1,20 @@
 [
     {
-        "frequenz": "K 54",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.4454",
-        "ort": "AMSTETTEN 1 Kollmitzberg",
-        "programm": "AUSTRIA24 TV",
+        "layer": 2,
+        "leistung": 1.4454,
+        "ort": "AMSTETTEN 1 FF Kollmitzberg",
+        "programm": "DORF TV",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 54",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.4454",
-        "ort": "AMSTETTEN 1 Kollmitzberg",
-        "programm": "DORF TV",
+        "layer": 2,
+        "leistung": 1.4454,
+        "ort": "AMSTETTEN 1 FF Kollmitzberg",
+        "programm": "M4TV",
         "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,38 +1,11 @@
 [
     {
-        "frequenz": "89.4",
+        "frequenz": 100.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "MALLNITZ 1 Lonzaberg",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.5623,
+        "ort": "LIEZEN Salberg",
+        "programm": "Freequenns",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "MALLNITZ 1 Lonzaberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "MALLNITZ 1 Lonzaberg",
-        "programm": "Radio K\u00e4rnten",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "MALLNITZ 1 Lonzaberg",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,38 +1,47 @@
 [
     {
-        "frequenz": "107.3",
+        "frequenz": 100.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.0000",
-        "ort": "WIEN 4 Donauturm",
-        "programm": "Radio Stephansdom",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "WATTENS 4 Volderberg",
+        "programm": "Radio U1 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.9",
+        "frequenz": 88,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.8218",
-        "ort": "WIEN 4 Donauturm",
-        "programm": "Radio Arabella",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "WATTENS 4 Volderberg",
+        "programm": "Klassik Radio",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94",
+        "frequenz": 89.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "WIEN 4 Donauturm",
-        "programm": "Radio Orange",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "WATTENS 4 Volderberg",
+        "programm": "Freirad",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.3",
+        "frequenz": 91.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.4125",
-        "ort": "WIEN 4 Donauturm",
-        "programm": "98.3 Superfly",
+        "layer": 2,
+        "leistung": 0.0331,
+        "ort": "WATTENS 4 Volderberg",
+        "programm": "Radio Austria",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "WATTENS 4 Volderberg",
+        "programm": "Energy (Innsbruck)",
         "system": "H\u00f6rfunk"
     }
 ]

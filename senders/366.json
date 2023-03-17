@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071015,
+        "datum2": 20170701,
+        "datum3": 20211109,
+        "davon5g": 1e-05,
+        "grenzwert": 0.003504,
+        "grenzwert2": 0.0007,
+        "grenzwert3": 4e-05,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 2e-06,
+        "messpunkt": "Pfarrplatz",
+        "ort": "Kufstein",
+        "summe": 0.000248,
+        "summe2": 4.3e-05,
+        "summe3": 6.4e-05
+    }
+]

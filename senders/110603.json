@@ -1,38 +1,20 @@
 [
     {
-        "frequenz": "89.8",
+        "frequenz": 87.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "WILDSCHOENAU Sandeck",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "WELS 2 Sternhochhaus",
+        "programm": "Welle 1 Ober\u00f6sterreich",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.3",
+        "frequenz": 95.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "WILDSCHOENAU Sandeck",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "WELS 2 Sternhochhaus",
+        "programm": "LoungeFM (Ober\u00f6sterreich Mitte)",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "WILDSCHOENAU Sandeck",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "WILDSCHOENAU Sandeck",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

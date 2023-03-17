@@ -1,20 +1,101 @@
 [
     {
-        "frequenz": "104.6",
+        "frequenz": 514,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.4786",
-        "ort": "GRAZ 8 Eisenberg",
-        "programm": "Arabella Rock Graz",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 95,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0794,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "Gr\u00fcn Wei\u00df",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "89.6",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.0000",
-        "ort": "GRAZ 8 Eisenberg",
-        "programm": "Radio \u00d624",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 26",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRATKORN Gsoller Kogel",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

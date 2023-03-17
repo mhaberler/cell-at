@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "K 34",
+        "frequenz": 91.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "HAESELGEHR Heissmahd",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "GRUENBACH Plackles",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "GRUENBACH Plackles",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "GRUENBACH Plackles",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
     }
 ]

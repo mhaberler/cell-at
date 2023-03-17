@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071008,
+        "datum2": 20170701,
+        "datum3": 20211029,
+        "davon5g": 0.000152,
+        "grenzwert": 0.006051,
+        "grenzwert2": 0.0179,
+        "grenzwert3": 0.021,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 1.5e-05,
+        "messpunkt": "Stadtplatz",
+        "ort": "Wels",
+        "summe": 0.00038,
+        "summe2": 0.001052,
+        "summe3": 0.001287
+    }
+]

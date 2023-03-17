@@ -1,29 +1,38 @@
 [
     {
-        "frequenz": "107.7",
+        "frequenz": 101.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "STEYR 4 Mobilfunkmast",
-        "programm": "Radio Arabella Linz",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "90.4",
+        "frequenz": 106.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "STEYR 4 Mobilfunkmast",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "Welle 1 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.2",
+        "frequenz": 92,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "STEYR 4 Mobilfunkmast",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "Radio Austria",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "SPITTAL DRAU 5 H\u00fchnersberg",
+        "programm": "Radio Maria (Spittal a.d. Drau)",
         "system": "H\u00f6rfunk"
     }
 ]

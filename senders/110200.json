@@ -1,38 +1,119 @@
 [
     {
-        "frequenz": "89",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "IMST 1 Burgstall",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1514,
+        "ort": "HOPFGARTEN DEF Lercherwald",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92",
+        "frequenz": 91.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "IMST 1 Burgstall",
+        "layer": 2,
+        "leistung": 0.1514,
+        "ort": "HOPFGARTEN DEF Lercherwald",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.8",
+        "frequenz": 94.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "IMST 1 Burgstall",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.1514,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
         "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "IMST 1 Burgstall",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HOPFGARTEN DEF Lercherwald",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

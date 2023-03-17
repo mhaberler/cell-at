@@ -1,83 +1,128 @@
 [
     {
-        "frequenz": "650",
+        "frequenz": 100.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
-        "programm": "FM4",
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "650",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "650",
+        "frequenz": 89.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "RADENTHEIN 1 Mitterberg",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 43",
+        "frequenz": 96.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 43",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 43",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 43",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 43",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
         "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 43",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "RETTENEGG",
-        "programm": "ORF Sport Plus (MUX B)",
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0891,
+        "ort": "RADENTHEIN 1 Mitterberg",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

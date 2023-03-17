@@ -1,29 +1,119 @@
 [
     {
-        "frequenz": "89.8",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0178",
-        "ort": "ST ULRICH PILLERSEE",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 88.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "STALL Steinwand",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "STALL Steinwand",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.4",
+        "frequenz": 96.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0178",
-        "ort": "ST ULRICH PILLERSEE",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "STALL Steinwand",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.8",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0178",
-        "ort": "ST ULRICH PILLERSEE",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
         "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "STALL Steinwand",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

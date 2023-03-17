@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "102",
+        "frequenz": 88.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.2344",
-        "ort": "WOERGL 2 Baumgarten",
-        "programm": "Life Radio (Tirol)",
+        "layer": 2,
+        "leistung": 9.5139,
+        "ort": "WIEN 12 Hermannskogel",
+        "programm": "Radio 88.6",
         "system": "H\u00f6rfunk"
     }
 ]

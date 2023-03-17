@@ -1,29 +1,128 @@
 [
     {
-        "frequenz": "104.4",
+        "frequenz": 634,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "KITZBUEHEL 4 Ried am Horn",
-        "programm": "Antenne Tirol (Unterland)",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.012,
+        "ort": "KALWANG Stellerberg",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "106",
+        "frequenz": 90.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "KITZBUEHEL 4 Ried am Horn",
-        "programm": "Radio U1 Tirol",
+        "layer": 2,
+        "leistung": 0.012,
+        "ort": "KALWANG Stellerberg",
+        "programm": "\u00d62 Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "107.9",
+        "frequenz": 95.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "KITZBUEHEL 4 Ried am Horn",
-        "programm": "Radio Maria (Jenbach)",
+        "layer": 2,
+        "leistung": 0.0912,
+        "ort": "KALWANG Stellerberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.012,
+        "ort": "KALWANG Stellerberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KALWANG Stellerberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

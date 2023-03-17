@@ -1,38 +1,119 @@
 [
     {
-        "frequenz": "90.6",
+        "frequenz": 490,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "NAUDERS Kleinmutzkopf",
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 93.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "MITTELBERG 2 Am Rohr",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.6",
+        "frequenz": 96.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "NAUDERS Kleinmutzkopf",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "\u00d62 Vorarlberg",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "99.2",
+        "frequenz": 99.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0120",
-        "ort": "NAUDERS Kleinmutzkopf",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "MITTELBERG 2 Am Rohr",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 44",
+        "frequenz": "K 23",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "NAUDERS Kleinmutzkopf",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3548,
+        "ort": "MITTELBERG 2 Am Rohr",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

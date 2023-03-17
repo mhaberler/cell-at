@@ -1,65 +1,119 @@
 [
     {
-        "frequenz": "101.6",
+        "frequenz": 102.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "Radio U1 Tirol",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "KRAKAU",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "104.3",
+        "frequenz": 578,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 92.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "KRAKAU",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "106",
+        "frequenz": 93.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.8913",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "Life Radio (Tirol)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "107.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.3467",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "KRAKAU",
+        "programm": "\u00d62 Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.1749",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "Oberland TV",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.1749",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "TIROL TV",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.1749",
-        "ort": "LANDECK 3 Krahberg",
-        "programm": "TIROL TV",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KRAKAU",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

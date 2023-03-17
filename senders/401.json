@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211021,
+        "davon5g": 9e-06,
+        "grenzwert": 0.0004,
+        "grenzwert2": 0,
+        "grenzwert3": 4e-05,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 2e-06,
+        "lte2": 0,
+        "messpunkt": "Hauptplatz 1",
+        "ort": "Waidhofen an der Thaya",
+        "summe": 3.3e-05,
+        "summe2": 0,
+        "summe3": 2.9e-05
+    }
+]

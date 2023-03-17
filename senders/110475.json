@@ -1,110 +1,11 @@
 [
     {
-        "frequenz": "634",
+        "frequenz": 107.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "FM4",
+        "layer": 2,
+        "leistung": 0.0398,
+        "ort": "SEMMERING 2 Hirschenkogel",
+        "programm": "Radio 88.6",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "634",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "634",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "91.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0040",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0040",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0040",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "ORF 2 (K\u00e4rnten)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "S KATHREIN HAU Hirscheckkogel",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
     }
 ]

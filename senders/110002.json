@@ -1,27 +1,27 @@
 [
     {
-        "frequenz": "91.2",
+        "frequenz": 91.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
+        "layer": 2,
+        "leistung": 0.01,
         "ort": "ACHENKIRCH",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "95.2",
+        "frequenz": 95.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
+        "layer": 2,
+        "leistung": 0.01,
         "ort": "ACHENKIRCH",
-        "programm": "Radio Tirol",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "99.4",
+        "frequenz": 99.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
+        "layer": 2,
+        "leistung": 0.01,
         "ort": "ACHENKIRCH",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"

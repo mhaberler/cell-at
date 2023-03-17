@@ -1,9 +1,9 @@
 [
     {
-        "frequenz": "95",
+        "frequenz": 95,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.3715,
         "ort": "ALTLENGBACH Steinhutberg",
         "programm": "Radio Arabella",
         "system": "H\u00f6rfunk"

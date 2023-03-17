@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20220623,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.019973,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 3.73e-05,
+        "lte2": 0,
+        "messpunkt": "Landstra\u00dfe 20, Parkplatz bei Sportmittelschule/Kirche",
+        "ort": "Nenzing",
+        "summe": 0.0014957,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

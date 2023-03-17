@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211009,
+        "davon5g": 9e-06,
+        "grenzwert": 0.001,
+        "grenzwert2": 0,
+        "grenzwert3": 0.00203,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 2.8009e-05,
+        "lte2": 0,
+        "messpunkt": "Raffaltplatz 10",
+        "ort": "Murau",
+        "summe": 4.7e-05,
+        "summe2": 0,
+        "summe3": 9.2e-05
+    }
+]

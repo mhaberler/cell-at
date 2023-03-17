@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "107.3",
+        "frequenz": 107.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "WAIDHOFEN YB 6 Eben",
-        "programm": "Radio Arabella",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "VILLACH 5 Oswaldiberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "VILLACH 5 Oswaldiberg",
+        "programm": "Radio Austria",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1096,
+        "ort": "VILLACH 5 Oswaldiberg",
+        "programm": "Welle 1 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     }
 ]

@@ -1,11 +1,119 @@
 [
     {
-        "frequenz": "K 24",
+        "frequenz": 490,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0891",
-        "ort": "S LEONHARD PZT",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 91.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "\u00d62 Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "S GALLENKIRCH Tanafreida",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

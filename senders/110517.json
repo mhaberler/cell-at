@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "107.6",
+        "frequenz": 92.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "ST VEIT 2 Zensweg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0013,
+        "ort": "STEEG Oberellenbogen",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0013,
+        "ort": "STEEG Oberellenbogen",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0013,
+        "ort": "STEEG Oberellenbogen",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     }
 ]

@@ -1,29 +1,29 @@
 [
     {
-        "frequenz": "88.1",
+        "frequenz": 101.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0250",
-        "ort": "VENTERTAL",
+        "layer": 2,
+        "leistung": 0.009,
+        "ort": "TREFFEN Verditz",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.3",
+        "frequenz": 91.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0250",
-        "ort": "VENTERTAL",
+        "layer": 2,
+        "leistung": 0.009,
+        "ort": "TREFFEN Verditz",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.7",
+        "frequenz": 95.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0250",
-        "ort": "VENTERTAL",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.009,
+        "ort": "TREFFEN Verditz",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     }
 ]

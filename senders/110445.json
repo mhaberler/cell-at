@@ -1,29 +1,11 @@
 [
     {
-        "frequenz": "K 45",
+        "frequenz": 87.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.1878",
-        "ort": "SCHLADMING 6 Hauser Kaibling Senderlift",
-        "programm": "ATV - Magazin \"Murtal\" mit Hauser Kaiblinger Wette",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 45",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.1878",
-        "ort": "SCHLADMING 6 Hauser Kaibling Senderlift",
-        "programm": "ATV - Magazin \"Murtal\" mit Hauser Kaiblinger Wette",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 45",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.1878",
-        "ort": "SCHLADMING 6 Hauser Kaibling Senderlift",
-        "programm": "Ennstal TV Wochenmagazin",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "S ANDRAE",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
     }
 ]

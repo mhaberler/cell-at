@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "94.2",
+        "frequenz": 102.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "GRAZ 12 Schlo\u00dfberg",
-        "programm": "Radio Stephansdom (Graz)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GOLDWOERTH Mobilfunkmast",
+        "programm": "FRO",
         "system": "H\u00f6rfunk"
     }
 ]

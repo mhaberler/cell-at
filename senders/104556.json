@@ -1,0 +1,18 @@
+[
+    {
+        "gkey": 104556,
+        "layer": 1,
+        "leistung": 135,
+        "sharing": 1,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE"
+    },
+    {
+        "gkey": 104556,
+        "layer": 1,
+        "leistung": 220.26411358172595,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE"
+    }
+]

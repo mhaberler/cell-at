@@ -1,119 +1,785 @@
 [
     {
-        "frequenz": "562",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "562",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "562",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "562",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": 546,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 682,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 91.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.08,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.08,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.08,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
-        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ORF 2 (Wien)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
-        "programm": "ORF 2 (Salzburg)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 32",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 32",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7943",
-        "ort": "BAD GASTEIN 1 Stubnerkogel",
-        "programm": "ORF Sport Plus (MUX B)",
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 47",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.9433,
+        "ort": "BADEN BEI WIEN Hartberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
         "system": "Digitaler Rundfunk"
     }
 ]

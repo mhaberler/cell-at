@@ -1,20 +1,29 @@
 [
     {
-        "frequenz": "102.5",
+        "frequenz": 106.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "S MICHAEL LUNG 2 Aineck",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "S GILGEN Zw\u00f6lferhorn",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "105.9",
+        "frequenz": 107.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "S MICHAEL LUNG 2 Aineck",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0708,
+        "ort": "S GILGEN Zw\u00f6lferhorn",
+        "programm": "Antenne Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0195,
+        "ort": "S GILGEN Zw\u00f6lferhorn",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     }
 ]

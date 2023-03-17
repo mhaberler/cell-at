@@ -1,128 +1,38 @@
 [
     {
-        "frequenz": "107.7",
+        "frequenz": 102.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "MURAU Stolzalpe",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0603,
+        "ort": "MISTELBACH Silo",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "634",
+        "frequenz": 107.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "FM4",
+        "layer": 2,
+        "leistung": 0.0479,
+        "ort": "MISTELBACH Silo",
+        "programm": "Radio Arabella",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "634",
+        "frequenz": 90.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1445,
+        "ort": "MISTELBACH Silo",
+        "programm": "Energy 104,2",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "634",
+        "frequenz": 93.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.3162,
+        "ort": "MISTELBACH Silo",
+        "programm": "Ypsilon",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "88.9",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "MURAU Stolzalpe",
-        "programm": "Antenne Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "90.9",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0300",
-        "ort": "MURAU Stolzalpe",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0300",
-        "ort": "MURAU Stolzalpe",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0300",
-        "ort": "MURAU Stolzalpe",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "ORF 2 (K\u00e4rnten)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.6424",
-        "ort": "MURAU Stolzalpe",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
     }
 ]

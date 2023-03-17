@@ -1,11 +1,92 @@
 [
     {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
         "frequenz": "K 28",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ARRIACH",
-        "programm": "",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ARRIACH",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

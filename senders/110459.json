@@ -1,29 +1,29 @@
 [
     {
-        "frequenz": "89.8",
+        "frequenz": 106.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0794",
-        "ort": "SELLRAIN",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "SCHLADMING 6 Hauser Kaibling Senderlift",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "91.4",
+        "frequenz": "K 45",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0794",
-        "ort": "SELLRAIN",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 2.1878,
+        "ort": "SCHLADMING 6 Hauser Kaibling Senderlift",
+        "programm": "ATV - Magazin \"Murtal\" mit Hauser Kaiblinger Wette",
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "96",
+        "frequenz": "K 45",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0794",
-        "ort": "SELLRAIN",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 2.1878,
+        "ort": "SCHLADMING 6 Hauser Kaibling Senderlift",
+        "programm": "Ennstal TV Wochenmagazin",
+        "system": "Digitaler Rundfunk"
     }
 ]

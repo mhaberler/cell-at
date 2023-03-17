@@ -1,29 +1,20 @@
 [
     {
-        "frequenz": "100.2",
+        "frequenz": 106.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "SCHWAZ 2 Heuberg",
-        "programm": "Radio U1 Tirol",
+        "layer": 2,
+        "leistung": 2.0893,
+        "ort": "SCHLADMING 4 Hochwurzen",
+        "programm": "Gr\u00fcn Wei\u00df",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "103.1",
+        "frequenz": 92,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0550",
-        "ort": "SCHWAZ 2 Heuberg",
-        "programm": "Antenne Tirol (Unterland)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "105.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "SCHWAZ 2 Heuberg",
-        "programm": "Life Radio (Tirol)",
+        "layer": 2,
+        "leistung": 1.7378,
+        "ort": "SCHLADMING 4 Hochwurzen",
+        "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"
     }
 ]

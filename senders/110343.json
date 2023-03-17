@@ -1,65 +1,119 @@
 [
     {
-        "frequenz": "100.3",
+        "frequenz": 610,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.2000",
-        "ort": "NEUMARKT Kulmer Alpe",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "101.9",
+        "frequenz": 91.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "NEUMARKT Kulmer Alpe",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "106.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "NEUMARKT Kulmer Alpe",
-        "programm": "Antenne Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "88",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.2000",
-        "ort": "NEUMARKT Kulmer Alpe",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "92.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.2000",
-        "ort": "NEUMARKT Kulmer Alpe",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.1",
+        "frequenz": 95.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.2000",
-        "ort": "NEUMARKT Kulmer Alpe",
-        "programm": "Radio Steiermark",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "97.4",
+        "frequenz": 98.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.2000",
-        "ort": "NEUMARKT Kulmer Alpe",
-        "programm": "Radio K\u00e4rnten",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "MOERTSCHACH 1 Zabererb\u00fchel",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

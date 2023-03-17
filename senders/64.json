@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090428,
+        "datum2": 20170701,
+        "datum3": 20211025,
+        "davon5g": 4.4e-05,
+        "grenzwert": 0.000668,
+        "grenzwert2": 0.0049,
+        "grenzwert3": 0.00803,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 3.2e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "Hollabrunn",
+        "summe": 4.1e-05,
+        "summe2": 0.000371,
+        "summe3": 0.000798
+    }
+]

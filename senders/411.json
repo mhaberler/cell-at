@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211021,
+        "davon5g": 9e-06,
+        "grenzwert": 0.0279,
+        "grenzwert2": 0,
+        "grenzwert3": 0.02201,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0.001025,
+        "lte2": 0,
+        "messpunkt": "Hauptplatz 13",
+        "ort": "Horn",
+        "summe": 0.001132,
+        "summe2": 0,
+        "summe3": 0.001171
+    }
+]

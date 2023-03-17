@@ -1,29 +1,20 @@
 [
     {
-        "frequenz": "88.4",
+        "frequenz": 100.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "S GEORGEN ATT Lichtenberg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "SCHRUNS Berghof Golm",
+        "programm": "Antenne Vorarlberg",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "89.9",
+        "frequenz": 103.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1122",
-        "ort": "S GEORGEN ATT Lichtenberg",
-        "programm": "Life Radio (Ober\u00f6sterreich)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1259",
-        "ort": "S GEORGEN ATT Lichtenberg",
-        "programm": "Radio Arabella Linz",
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "SCHRUNS Berghof Golm",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

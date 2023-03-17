@@ -1,0 +1,965 @@
+[
+    {
+        "frequenz": 102.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5136,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "radio AGORA 105 l 5",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 181.94,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 618,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 674,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 674,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 674,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 674,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 674,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 674,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 94.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.5849,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.2589,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 39",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 46",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "WOLFSBERG 1 Koralpe",
+        "programm": "Welle 1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    }
+]

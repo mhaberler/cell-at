@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071008,
+        "datum2": 20170701,
+        "datum3": 20211028,
+        "davon5g": 0.000172,
+        "grenzwert": 0.032396,
+        "grenzwert2": 0.0521,
+        "grenzwert3": 0.045,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0.001829,
+        "messpunkt": "Stadtplatz",
+        "ort": "Eferding",
+        "summe": 0.001911,
+        "summe2": 0.002228,
+        "summe3": 0.002318
+    }
+]

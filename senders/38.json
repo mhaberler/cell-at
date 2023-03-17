@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090518,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 4e-06,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0,
+        "messpunkt": "Margarethnerstra\u00dfe",
+        "ort": "V\u00f6lkermarkt",
+        "summe": 0.000225,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

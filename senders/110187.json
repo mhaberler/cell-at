@@ -1,11 +1,20 @@
 [
     {
-        "frequenz": "94.5",
+        "frequenz": 104.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HOLLABRUNN Gymnasiumturm",
-        "programm": "Radio Ypsilon",
+        "layer": 2,
+        "leistung": 0.0708,
+        "ort": "HINTERTUX 2 Hohenhaustenne",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0708,
+        "ort": "HINTERTUX 2 Hohenhaustenne",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

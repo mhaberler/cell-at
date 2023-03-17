@@ -1,11 +1,803 @@
 [
     {
-        "frequenz": "102.2",
+        "frequenz": 101,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "LUNZ 2 Mai\u00df",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 2.6002,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "FM4",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 506,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 506,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 570,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 570,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 570,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 570,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 570,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 570,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 586,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.6002,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.6002,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.6002,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.6002,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.3988,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 33",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 35",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.138,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9055,
+        "ort": "LIENZ Rauchkofel",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

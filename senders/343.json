@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071010,
+        "datum2": null,
+        "datum3": 20211029,
+        "davon5g": 9e-06,
+        "grenzwert": 0.006147,
+        "grenzwert2": 0,
+        "grenzwert3": 4e-05,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0,
+        "messpunkt": "Schlossplatz",
+        "ort": "Zell am See",
+        "summe": 0.000306,
+        "summe2": 0,
+        "summe3": 3.9e-05
+    }
+]

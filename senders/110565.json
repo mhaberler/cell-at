@@ -1,11 +1,119 @@
 [
     {
-        "frequenz": "102",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "WAIDRING 2",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.25,
+        "ort": "VILLACH Finkenstein",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.25,
+        "ort": "VILLACH Finkenstein",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.25,
+        "ort": "VILLACH Finkenstein",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 7.0795,
+        "ort": "VILLACH Finkenstein",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20221207,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0952986,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0.00014,
+        "lte2": 0,
+        "messpunkt": "Krastal-Stra\u00dfe 12, Kindergarten Puch d Gemeinde Wei\u00dfenstein",
+        "ort": "Velden am W\u00f6rthersee",
+        "summe": 0.0060807,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

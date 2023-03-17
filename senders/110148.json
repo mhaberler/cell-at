@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "K 44",
+        "frequenz": 92.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0794",
-        "ort": "GRIES BRENNER",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 1,
+        "ort": "GRAZ 7 Riess",
+        "programm": "Radio Helsinki",
+        "system": "H\u00f6rfunk"
     }
 ]

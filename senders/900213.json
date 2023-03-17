@@ -1,18 +1,18 @@
 [
     {
-        "gkey": "900213",
-        "layer": "1",
-        "leistung": "29.7187128457402",
-        "sharing": "1",
-        "struktur": "m",
-        "system": "UMTS"
+        "gkey": 900213,
+        "layer": 1,
+        "leistung": 95.67413581825866,
+        "sharing": 0,
+        "struktur": "e",
+        "system": "UMTS/LTE"
     },
     {
-        "gkey": "900213",
-        "layer": "1",
-        "leistung": "81.29",
-        "sharing": "0",
-        "struktur": "e",
-        "system": "3G/4G"
+        "gkey": 900213,
+        "layer": 1,
+        "leistung": 14.5211161758774,
+        "sharing": 1,
+        "struktur": "m",
+        "system": "UMTS"
     }
 ]

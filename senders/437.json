@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211005,
+        "davon5g": 1.6e-05,
+        "grenzwert": 0.002,
+        "grenzwert2": 0,
+        "grenzwert3": 0.00401,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 7.904e-06,
+        "lte2": 0,
+        "messpunkt": "Erzherzog Johann-Stra\u00dfe 2",
+        "ort": "Leoben",
+        "summe": 0.000115,
+        "summe2": 0,
+        "summe3": 0.000233
+    }
+]

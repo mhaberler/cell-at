@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "103.4",
+        "frequenz": 103.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
+        "layer": 2,
+        "leistung": 0.02,
         "ort": "ALBERSCHWENDE Rotach",
-        "programm": "KRONEHIT",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

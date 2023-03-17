@@ -1,17 +1,17 @@
 [
     {
-        "gkey": "107932",
-        "layer": "1",
-        "leistung": "111.29",
-        "sharing": "1",
+        "gkey": 107932,
+        "layer": 1,
+        "leistung": 460.31687760388684,
+        "sharing": 1,
         "struktur": "d",
-        "system": "2G/3G/4G"
+        "system": "GSM/UMTS/LTE/5G"
     },
     {
-        "gkey": "107932",
-        "layer": "1",
-        "leistung": "214.662864420747",
-        "sharing": "1",
+        "gkey": 107932,
+        "layer": 1,
+        "leistung": 205.20553695275623,
+        "sharing": 1,
         "struktur": "d",
         "system": "GSM/UMTS/LTE"
     }

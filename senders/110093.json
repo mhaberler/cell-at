@@ -1,38 +1,20 @@
 [
     {
-        "frequenz": "100.9",
+        "frequenz": 101.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "EISENKAPPEL 2",
-        "programm": "Radio Agora",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EISENERZ 1 Polster-CATV",
+        "programm": "Gr\u00fcn Wei\u00df",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "89",
+        "frequenz": 105,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "EISENKAPPEL 2",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "91.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "EISENKAPPEL 2",
-        "programm": "Radio K\u00e4rnten",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "EISENKAPPEL 2",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.0933,
+        "ort": "EISENERZ 1 Polster-CATV",
+        "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"
     }
 ]

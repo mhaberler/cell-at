@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "92.6",
+        "frequenz": 1.48,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "BAD RADKERSBURG 3 Fernheizwerk",
-        "programm": "Radio Agora (Bad Rakersburg)",
+        "layer": 2,
+        "leistung": 0.3786,
+        "ort": "BAD ISCHL 4",
+        "programm": "Museumsradio 1476",
         "system": "H\u00f6rfunk"
     }
 ]

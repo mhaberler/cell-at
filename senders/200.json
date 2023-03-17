@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090827,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.00641,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0,
+        "messpunkt": "Oberer Stadtplatz",
+        "ort": "Hall",
+        "summe": 0.000596,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

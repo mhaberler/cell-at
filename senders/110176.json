@@ -1,29 +1,18 @@
 [
     {
-        "frequenz": "101.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0044",
-        "ort": "HINTERHORNBACH Kanzberg",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "gkey": 110176,
+        "layer": 1,
+        "leistung": 135,
+        "sharing": 1,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE"
     },
     {
-        "frequenz": "89.3",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0044",
-        "ort": "HINTERHORNBACH Kanzberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0044",
-        "ort": "HINTERHORNBACH Kanzberg",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
+        "gkey": 110176,
+        "layer": 1,
+        "leistung": 183.9472691774664,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "UMTS/LTE"
     }
 ]

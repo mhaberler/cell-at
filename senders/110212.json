@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "103.8",
+        "frequenz": 104.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "INZING 2 Stiglreith",
-        "programm": "T-ROCK",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "IMST 3 Arzl-Osterstein",
+        "programm": "Magic Hit",
         "system": "H\u00f6rfunk"
     }
 ]

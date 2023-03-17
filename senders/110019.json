@@ -1,38 +1,119 @@
 [
     {
-        "frequenz": "101.7",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "AU BREGENZERWD Argenzipfel",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "87.9",
+        "frequenz": 87.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "AU BREGENZERWD Argenzipfel",
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "ASPANG K\u00f6nigsberg",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "90.2",
+        "frequenz": 93.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "AU BREGENZERWD Argenzipfel",
-        "programm": "Radio Vorarlberg",
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 44",
+        "frequenz": 98.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "AU BREGENZERWD Argenzipfel",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "ASPANG K\u00f6nigsberg",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

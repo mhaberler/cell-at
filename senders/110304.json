@@ -1,11 +1,929 @@
 [
     {
+        "frequenz": 102,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "LoungeFM (Ober\u00f6sterreich Mitte)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 602,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 650,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "kabel eins Doku austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "KurierTV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "oe24 TV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Schau TV Hbb TV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 666,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 666,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 5.0119,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 37",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
         "frequenz": "K 41",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "MARIA WOERTH Pritschitz",
-        "programm": "",
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "BibelTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "BibelTV Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "DORF TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "kabel eins Doku austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "KurierTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "LT 1 Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "LT1 Privatfernsehen",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "oe24 TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ProSieben MAXX Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Schau TV Hbb TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Welt",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Welt Teletext",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 45",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "LINZ 2 Freinberg",
+        "programm": "ZDFneo HD",
         "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,20 +1,11 @@
 [
     {
-        "frequenz": "104.1",
+        "frequenz": 106.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0708",
-        "ort": "HINTERTUX 2 Hohenhaustenne",
-        "programm": "Life Radio (Tirol)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0708",
-        "ort": "HINTERTUX 2 Hohenhaustenne",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.2042,
+        "ort": "HALLWANG 2 Nu\u00dfdorf (Mobilfunkmast)",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     }
 ]

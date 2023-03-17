@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "107.7",
+        "frequenz": 105.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "WINDISCHGARSTEN 2 Wurbauerkogel",
-        "programm": "Radio B 138",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "WENNS Klapf",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 658,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 92.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.008,
+        "ort": "WENNS Klapf",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.008,
+        "ort": "WENNS Klapf",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.008,
+        "ort": "WENNS Klapf",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "WENNS Klapf",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

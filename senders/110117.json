@@ -1,38 +1,92 @@
 [
     {
-        "frequenz": "88.6",
+        "frequenz": 594,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "GASCHURN",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "90.2",
+        "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "GASCHURN",
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
         "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "94.8",
+        "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "GASCHURN",
-        "programm": "Radio Vorarlberg",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 44",
+        "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1259",
-        "ort": "GASCHURN",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1413,
+        "ort": "GAFLENZ Hutterkogel",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

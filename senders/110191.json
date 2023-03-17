@@ -1,38 +1,11 @@
 [
     {
-        "frequenz": "88.9",
+        "frequenz": 107.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1514",
-        "ort": "HOPFGARTEN DEF Lercherwald",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HOCHSTRASS Hasenriegel",
+        "programm": "Radio Arabella",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "91.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1514",
-        "ort": "HOPFGARTEN DEF Lercherwald",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "94.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1514",
-        "ort": "HOPFGARTEN DEF Lercherwald",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "HOPFGARTEN DEF Lercherwald",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20220826,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0020394,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 5.4e-06,
+        "lte2": 0,
+        "messpunkt": "Krengelbacherstr. 9, Krengelbacherstr. 9",
+        "ort": "Krenglbach",
+        "summe": 0.000136,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

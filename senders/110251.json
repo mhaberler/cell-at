@@ -1,38 +1,965 @@
 [
     {
-        "frequenz": "89",
+        "frequenz": 102.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "KOESSEN Hechenbichl",
+        "layer": 2,
+        "leistung": 100,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 105.5,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 10,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "radio AGORA 105 l 5",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 181.94,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 690,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 90.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 100,
+        "ort": "KLAGENFURT 1 Dobratsch",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "91.5",
+        "frequenz": 92.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "KOESSEN Hechenbichl",
+        "layer": 2,
+        "leistung": 100,
+        "ort": "KLAGENFURT 1 Dobratsch",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.1",
+        "frequenz": 97.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "KOESSEN Hechenbichl",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 100,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 38",
+        "frequenz": "K 23",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "KOESSEN Hechenbichl",
-        "programm": "",
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 6.3096,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "SUPER RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Antenne \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "arabella HOT",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Arabella RELAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ENERGY Wien",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ERF Plus \u00d6sterreich - MUX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "j\u00f6.live",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Klassik Radio",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Mein Kinderradio - MUX I",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio 88.6 (MUX I)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Flamingo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "radio klassik Stephansdom",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "ROCK ANTENNE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Technikum ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 6A",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.9811,
+        "ort": "KLAGENFURT 1 Dobratsch",
+        "programm": "Welle 1 \u00d6sterreich",
         "system": "Digitaler Rundfunk"
     }
 ]

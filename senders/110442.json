@@ -1,20 +1,29 @@
 [
     {
-        "frequenz": "106.3",
+        "frequenz": 102.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.0893",
-        "ort": "SCHLADMING 4 Hochwurzen",
-        "programm": "Radio Gr\u00fcn Wei\u00df",
+        "layer": 2,
+        "leistung": 0.0603,
+        "ort": "SALZBURG 6 Hochgitzen Mobilfunkmast",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92",
+        "frequenz": 107.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.7378",
-        "ort": "SCHLADMING 4 Hochwurzen",
-        "programm": "Antenne Steiermark",
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "SALZBURG 6 Hochgitzen Mobilfunkmast",
+        "programm": "Radiofabrik",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 89.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0575,
+        "ort": "SALZBURG 6 Hochgitzen Mobilfunkmast",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     }
 ]

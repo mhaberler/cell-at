@@ -1,29 +1,11 @@
 [
     {
-        "frequenz": "91",
+        "frequenz": 98.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "DAMUELS",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "95.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "DAMUELS",
-        "programm": "Radio Vorarlberg",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
-        "ort": "DAMUELS",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "BRUECKL 2 Lippekogel",
+        "programm": "Welle 1 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     }
 ]

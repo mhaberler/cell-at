@@ -1,81 +1,54 @@
 [
     {
-        "frequenz": "107.1",
+        "frequenz": 107.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
+        "layer": 2,
+        "leistung": 0.1995,
         "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "KRONEHIT",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "594",
+        "frequenz": 594,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "87.8",
+        "frequenz": 87.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.3",
+        "frequenz": 92.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "Radio Ober\u00f6sterreich",
+        "programm": "\u00d62 Ober\u00f6sterreich",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.1",
+        "frequenz": 96.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "Radio Steiermark",
+        "programm": "\u00d62 Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.3",
+        "frequenz": 98.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
@@ -83,8 +56,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
@@ -92,8 +65,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
@@ -101,8 +74,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
@@ -110,8 +83,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
@@ -119,8 +92,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "ORF 2 (Ober\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
@@ -128,8 +101,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "ORF 2 (Salzburg)",
         "system": "Digitaler Rundfunk"
@@ -137,8 +110,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
@@ -146,8 +119,8 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
@@ -155,10 +128,10 @@
     {
         "frequenz": "K 36",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
+        "layer": 2,
+        "leistung": 0.1585,
         "ort": "ALTENMARKT ENN Schweigerberg",
-        "programm": "ORF Sport Plus (MUX B)",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,29 +1,20 @@
 [
     {
-        "frequenz": "88.1",
+        "frequenz": 106.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "PALFAU",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.0347,
+        "ort": "OBERTAUERN 2 Zehnerkar",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.9",
+        "frequenz": 88.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "PALFAU",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "PALFAU",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "OBERTAUERN 2 Zehnerkar",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     }
 ]

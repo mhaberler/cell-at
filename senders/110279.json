@@ -1,101 +1,794 @@
 [
     {
-        "frequenz": "482",
+        "frequenz": 102.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "482",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "482",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "LANDECK 1 Krahberg",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94",
+        "frequenz": 474,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0282",
-        "ort": "LEUTSCHACH",
-        "programm": "Radio Steiermark",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 474,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 474,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 474,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Radio Maria (Satellit)",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.4",
+        "frequenz": 474,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0282",
-        "ort": "LEUTSCHACH",
-        "programm": "Radio Agora",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 474,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 506,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 506,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 522,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 522,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 522,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 562,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 90.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 22",
+        "frequenz": 93.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 21",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 22",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 22",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 22",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 22",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
         "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 22",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LEUTSCHACH",
-        "programm": "ORF Sport Plus (MUX B)",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 25",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 27",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "LANDECK 1 Krahberg",
+        "programm": "SUPER RTL",
         "system": "Digitaler Rundfunk"
     }
 ]

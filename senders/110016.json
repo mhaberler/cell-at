@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "93",
+        "frequenz": 93,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
+        "layer": 2,
+        "leistung": 0.1,
         "ort": "ARNREIT Getzing",
-        "programm": "KRONEHIT",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

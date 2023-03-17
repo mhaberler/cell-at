@@ -1,29 +1,128 @@
 [
     {
-        "frequenz": "103.6",
+        "frequenz": 100.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "EHRWALD 4 Wettersteinlift Bergstation",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "FM4",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "105.8",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "EHRWALD 4 Wettersteinlift Bergstation",
-        "programm": "Life Radio (Tirol)",
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 91.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "107.9",
+        "frequenz": 95.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "EHRWALD 4 Wettersteinlift Bergstation",
-        "programm": "Radio U1 Tirol",
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.15,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.631,
+        "ort": "EHRWALD 1 Zugspitze",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

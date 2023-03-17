@@ -1,38 +1,11 @@
 [
     {
-        "frequenz": "89.8",
+        "frequenz": 103.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "NAVIS",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "MITTELBERG 3 Zafernalpe",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "NAVIS",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "NAVIS",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0447",
-        "ort": "NAVIS",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

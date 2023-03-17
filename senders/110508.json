@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "102.6",
+        "frequenz": 88.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.4125",
-        "ort": "STEYR 2 Wolfingerwald",
-        "programm": "Radio Steyr",
+        "layer": 2,
+        "leistung": 0.025,
+        "ort": "SPITTAL DRAU 2 H\u00fchnersberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.025,
+        "ort": "SPITTAL DRAU 2 H\u00fchnersberg",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.025,
+        "ort": "SPITTAL DRAU 2 H\u00fchnersberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071107,
+        "datum2": 20170701,
+        "datum3": 20211008,
+        "davon5g": 0.000293,
+        "grenzwert": 0.004859,
+        "grenzwert2": 0.0046,
+        "grenzwert3": 0.009,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 1.6e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "Leibnitz",
+        "summe": 0.000417,
+        "summe2": 0.000352,
+        "summe3": 0.000801
+    }
+]

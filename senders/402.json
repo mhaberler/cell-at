@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20170701,
+        "datum2": null,
+        "datum3": 20211018,
+        "davon5g": 1.7e-05,
+        "grenzwert": 0.0011,
+        "grenzwert2": 0,
+        "grenzwert3": 4e-05,
+        "institut": "Techn. Hochschule Deggendorf/Bayern",
+        "institut2": null,
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 3e-06,
+        "lte2": 0,
+        "messpunkt": "Rathausplatz 1",
+        "ort": "Scheibbs",
+        "summe": 8.7e-05,
+        "summe2": 0,
+        "summe3": 4.5e-05
+    }
+]

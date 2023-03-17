@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090604,
+        "datum2": 20170701,
+        "datum3": 20211104,
+        "davon5g": 0.000323,
+        "grenzwert": 0.012182,
+        "grenzwert2": 0.0264,
+        "grenzwert3": 0.077,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 4.1e-05,
+        "messpunkt": "Rathausstra\u00dfe",
+        "ort": "Dornbirn",
+        "summe": 0.0009,
+        "summe2": 0.001944,
+        "summe3": 0.004081
+    }
+]

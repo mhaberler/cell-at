@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "88.7",
+        "frequenz": 89.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1585",
-        "ort": "WEIZ 2 Landscha",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "WAIDRING Reiterberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 92.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "WAIDRING Reiterberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 94.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.03,
+        "ort": "WAIDRING Reiterberg",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     }
 ]

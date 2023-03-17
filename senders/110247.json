@@ -1,110 +1,119 @@
 [
     {
-        "frequenz": "578",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "578",
+        "frequenz": 91.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
+        "layer": 2,
+        "leistung": 0.002,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "578",
+        "frequenz": 96.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
+        "layer": 2,
+        "leistung": 0.002,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.002,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "91.7",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0800",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "94.9",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0800",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0800",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 34",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 34",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 34",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
         "programm": "ORF 2 (Burgenland)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 34",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
-        "programm": "ORF 2 (K\u00e4rnten)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 34",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "KNITTELFELD Eiglerh\u00f6he",
-        "programm": "ORF Sport Plus (MUX B)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KIRCHSCHLAG BW Lembacher H\u00f6he",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

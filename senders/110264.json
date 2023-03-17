@@ -1,38 +1,29 @@
 [
     {
-        "frequenz": "90",
+        "frequenz": 100.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "LAENGENFELD",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOESSEN 2 Gruberalm",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "93.6",
+        "frequenz": 102.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "LAENGENFELD",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOESSEN 2 Gruberalm",
+        "programm": "Life Radio (Tirol)",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "97.8",
+        "frequenz": 105.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0150",
-        "ort": "LAENGENFELD",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOESSEN 2 Gruberalm",
+        "programm": "Radio U1 Tirol",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 44",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1259",
-        "ort": "LAENGENFELD",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

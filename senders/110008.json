@@ -1,54 +1,18 @@
 [
     {
-        "frequenz": "554",
+        "frequenz": 554,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "AGGSBACH",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "AGGSBACH",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "AGGSBACH",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "AGGSBACH",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
@@ -56,8 +20,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
@@ -65,8 +29,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
@@ -74,8 +38,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "ORF 2 (Burgenland)",
         "system": "Digitaler Rundfunk"
@@ -83,8 +47,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
@@ -92,8 +56,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "ORF 2 (Wien)",
         "system": "Digitaler Rundfunk"
@@ -101,8 +65,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
@@ -110,8 +74,8 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
@@ -119,19 +83,10 @@
     {
         "frequenz": "K 31",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
+        "layer": 2,
+        "leistung": 0.0398,
         "ort": "AGGSBACH",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "AGGSBACH",
-        "programm": "ORF Sport Plus (MUX B)",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

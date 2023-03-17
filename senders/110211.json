@@ -1,56 +1,92 @@
 [
     {
-        "frequenz": "101",
+        "frequenz": 658,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "INZING 2 Stieglreith",
-        "programm": "Lounge FM (Innsbruck)",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "106.2",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0447",
-        "ort": "INZING 2 Stieglreith",
-        "programm": "Freirad",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "107.7",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0708",
-        "ort": "INZING 2 Stieglreith",
-        "programm": "Energy 99,9",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "94.2",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "INZING 2 Stieglreith",
-        "programm": "Radio U1 Tirol",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "95.1",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "INZING 2 Stieglreith",
-        "programm": "Klassik Radio",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "97.6",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0813",
-        "ort": "INZING 2 Stieglreith",
-        "programm": "Radio \u00d624",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 44",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1122,
+        "ort": "IMST 2 Gunglgr\u00fcn",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

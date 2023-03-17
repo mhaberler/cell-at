@@ -1,0 +1,92 @@
+[
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.2512,
+        "ort": "ZWETTL NOE Syrnau",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    }
+]

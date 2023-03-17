@@ -1,119 +1,20 @@
 [
     {
-        "frequenz": "103.4",
+        "frequenz": 104.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0631",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0933,
+        "ort": "MITTERBACH ERL  2 Gemeindealpe ",
+        "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "514",
+        "frequenz": 106.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "FM4",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "MITTERBACH ERL  2 Gemeindealpe ",
+        "programm": "Radio 88.6",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "514",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "514",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "95",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "Radio Steiermark",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.3",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0398",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "ORF 2 (K\u00e4rnten)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 26",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1413",
-        "ort": "NEUBERG MUERZ Schneealpe",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
     }
 ]

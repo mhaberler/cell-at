@@ -1,47 +1,119 @@
 [
     {
-        "frequenz": "89.8",
+        "frequenz": 610,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "OBERVELLACH Pfaffenberg",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "91",
+        "frequenz": 90.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "OBERVELLACH Pfaffenberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "NIEDERNDORF",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.3",
+        "frequenz": 95.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "OBERVELLACH Pfaffenberg",
-        "programm": "Radio K\u00e4rnten",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "NIEDERNDORF",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "98.6",
+        "frequenz": 98,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "OBERVELLACH Pfaffenberg",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "NIEDERNDORF",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 28",
+        "frequenz": "K 38",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "OBERVELLACH Pfaffenberg",
-        "programm": "",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 38",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "NIEDERNDORF",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

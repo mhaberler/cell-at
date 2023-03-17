@@ -1,38 +1,128 @@
 [
     {
-        "frequenz": "101",
+        "frequenz": 530,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "PERG Lanzenberg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "103.6",
+        "frequenz": 91,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "PERG Lanzenberg",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "89.7",
+        "frequenz": 94.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0316",
-        "ort": "PERG Lanzenberg",
-        "programm": "Radio Arabella Linz",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "\u00d62 K\u00e4rnten",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.5",
+        "frequenz": 98.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "PERG Lanzenberg",
-        "programm": "Welle 1 Linz",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "OBERVELLACH Pfaffenberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

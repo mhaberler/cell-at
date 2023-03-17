@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090821,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.001284,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0,
+        "messpunkt": "St\u00f6llingerplatz",
+        "ort": "Schwarzach St. Veit",
+        "summe": 8.4e-05,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

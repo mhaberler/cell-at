@@ -1,38 +1,29 @@
 [
     {
-        "frequenz": "88.7",
+        "frequenz": 92.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0300",
-        "ort": "OBERGURGL Windeck",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "92.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0300",
-        "ort": "OBERGURGL Windeck",
+        "layer": 2,
+        "leistung": 0.003,
+        "ort": "NASSEREITH",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "95.6",
+        "frequenz": 96.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0300",
-        "ort": "OBERGURGL Windeck",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.003,
+        "ort": "NASSEREITH",
+        "programm": "\u00d62 Tirol",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 44",
+        "frequenz": 97.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.3548",
-        "ort": "OBERGURGL Windeck",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.003,
+        "ort": "NASSEREITH",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
     }
 ]

@@ -1,20 +1,11 @@
 [
     {
-        "frequenz": "102.7",
+        "frequenz": 98.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "BEZAU 2 Richtfunkmast Bergstation",
-        "programm": "Antenne Vorarlberg",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "104.7",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1202",
-        "ort": "BEZAU 2 Richtfunkmast Bergstation",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "BAD SANKT LEONHARD G\u00f6rlitzen",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

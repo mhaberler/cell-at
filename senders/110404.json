@@ -1,20 +1,119 @@
 [
     {
-        "frequenz": "104.1",
+        "frequenz": 554,
         "gkey": null,
-        "layer": "2",
-        "leistung": "6.0256",
-        "ort": "RECHNITZ 2 Hirschenstein",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 87.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0032,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "105.5",
+        "frequenz": 90.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "RECHNITZ 2 Hirschenstein",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 0.0032,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d61",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.1,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0032,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d62 Nieder\u00f6sterreich",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF 2 (Wien)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "PUCHBERG SCHNB Himberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

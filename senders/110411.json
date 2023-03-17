@@ -1,11 +1,20 @@
 [
     {
-        "frequenz": "89.9",
+        "frequenz": 102.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.2818",
-        "ort": "REUTTE 1 Hahnenkamm Mobilfunkmast",
-        "programm": "Life Radio (Tirol)",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "RADSTADT Jakobsberg",
+        "programm": "Radio Austria",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "RADSTADT Jakobsberg",
+        "programm": "Antenne Salzburg",
         "system": "H\u00f6rfunk"
     }
 ]

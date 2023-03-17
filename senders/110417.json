@@ -1,164 +1,29 @@
 [
     {
-        "frequenz": "498",
+        "frequenz": 102.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "FM4",
+        "layer": 2,
+        "leistung": 1.122,
+        "ort": "RECHNITZ 2 Hirschenstein",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "498",
+        "frequenz": 104.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 6.0256,
+        "ort": "RECHNITZ 2 Hirschenstein",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "498",
+        "frequenz": 105.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 2.5119,
+        "ort": "RECHNITZ 2 Hirschenstein",
+        "programm": "Radio 88.6",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "92.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0308",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "94.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "Radio Nieder\u00f6sterreich",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF 2 (Wien)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF eins",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0251",
-        "ort": "ROHR IM GEBIRGE",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,11 +1,20 @@
 [
     {
-        "frequenz": "K 24",
+        "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.7079",
-        "ort": "BLUDENZ 2 Gas\u00fcnd",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.182,
+        "ort": "BLEIBURG 2 Petzen Bergstation",
+        "programm": "FREIZEITFERNSEHEN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.182,
+        "ort": "BLEIBURG 2 Petzen Bergstation",
+        "programm": "KULT1",
         "system": "Digitaler Rundfunk"
     }
 ]

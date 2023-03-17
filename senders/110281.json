@@ -1,11 +1,47 @@
 [
     {
-        "frequenz": "K 28",
+        "frequenz": 101.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "LIEBENFELS",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "LANDECK 3 Krahberg",
+        "programm": "Radio U1 Tirol",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "LANDECK 3 Krahberg",
+        "programm": "Radio Austria",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.8913,
+        "ort": "LANDECK 3 Krahberg",
+        "programm": "Life Radio (Tirol)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 107.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3467,
+        "ort": "LANDECK 3 Krahberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.1749,
+        "ort": "LANDECK 3 Krahberg",
+        "programm": "Oberland TV",
         "system": "Digitaler Rundfunk"
     }
 ]

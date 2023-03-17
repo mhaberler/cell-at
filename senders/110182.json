@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "107.8",
+        "frequenz": 106,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "HOCHSTRASS Hasenriegel",
-        "programm": "Radio Arabella",
+        "layer": 2,
+        "leistung": 0.0282,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 578,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 90.3,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "HIEFLAU Buchegg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

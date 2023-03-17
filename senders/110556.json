@@ -1,83 +1,119 @@
 [
     {
-        "frequenz": "514",
+        "frequenz": 102.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "514",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "514",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "UNTERTAUERN",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": 562,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 91.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "UNTERTAUERN",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.015,
+        "ort": "UNTERTAUERN",
+        "programm": "\u00d62 Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
-        "programm": "ORF 2 (Burgenland)",
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
-        "programm": "ORF 2 (K\u00e4rnten)",
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 26",
+        "frequenz": "K 32",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VORAU",
-        "programm": "ORF Sport Plus (MUX B)",
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.4467,
+        "ort": "UNTERTAUERN",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

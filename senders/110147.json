@@ -1,11 +1,20 @@
 [
     {
-        "frequenz": "K 34",
+        "frequenz": 102.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.4677",
-        "ort": "GRESTEN 2 Hochkogelberg",
-        "programm": "M4TV",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "GRAZ 4 Plabutsch L\u00fcftungsturm Nord",
+        "programm": "Radio Maria (Graz)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1.6596,
+        "ort": "GRAZ 4 Plabutsch L\u00fcftungsturm Nord",
+        "programm": "Soundportal",
+        "system": "H\u00f6rfunk"
     }
 ]

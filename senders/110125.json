@@ -1,614 +1,119 @@
 [
     {
-        "frequenz": "103.1",
+        "frequenz": 658,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0708",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Life Radio (Ober\u00f6sterreich)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ProSieben Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "602",
+        "frequenz": 88.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "602",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV2",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "602",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "602",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "602",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "634",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "666",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "kabel eins austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "666",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "sixx Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "87.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0470",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "90.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "LoungeFM (Ober\u00f6sterreich Mitte)",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0470",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Radio Ober\u00f6sterreich",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "93.9",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0813",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0470",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "GERLOS Auerschlag",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 24",
+        "frequenz": 90.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "GERLOS Auerschlag",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 24",
+        "frequenz": 93.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "GERLOS Auerschlag",
+        "programm": "\u00d62 Tirol",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 24",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "KRONEHIT (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Radio \u00d624 (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
+        "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
+        "programm": "ORF 2 (Tirol)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF 2 (Salzburg)",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
+        "programm": "ORF 2 (Vorarlberg)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 36",
+        "frequenz": "K 44",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "SRF 1",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "SRF 2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 41",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "SUPER RTL",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 45",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 45",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 45",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 45",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.1623",
-        "ort": "GMUNDEN Gr\u00fcnberg",
-        "programm": "sixx Austria",
+        "layer": 2,
+        "leistung": 0.0631,
+        "ort": "GERLOS Auerschlag",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071011,
+        "datum2": 20170701,
+        "datum3": 20211009,
+        "davon5g": 0.00021,
+        "grenzwert": 0.002226,
+        "grenzwert2": 0.004,
+        "grenzwert3": 0.011,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 1.5e-05,
+        "messpunkt": "Hauptplatz",
+        "ort": "V\u00f6lkermarkt",
+        "summe": 0.000115,
+        "summe2": 0.000254,
+        "summe3": 0.000712
+    }
+]

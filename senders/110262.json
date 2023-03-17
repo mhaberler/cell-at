@@ -1,488 +1,128 @@
 [
     {
-        "frequenz": "103.9",
+        "frequenz": 103.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "4.4999",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "490",
+        "frequenz": 514,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "kabel eins austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "490",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "sixx Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "538",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "538",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV2",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "538",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "538",
+        "frequenz": 88.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "538",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "602",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "642",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "642",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ProSieben Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "642",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "642",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "642",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "95.4",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "4.4999",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "\u00d62 Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "97.5",
+        "frequenz": 91.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "4.4999",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "99.9",
+        "frequenz": 98.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "4.4999",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "FM4",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 23",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "kabel eins austria",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 23",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "kabel eins austria",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 23",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "sixx Austria",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 23",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "sixx Austria",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "ORF 2 (Burgenland)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 24",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 29",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "ORF 2 (Steiermark)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 29",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 29",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 29",
+        "frequenz": "K 26",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "SRF 1",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 29",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "SRF 2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 37",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "SUPER RTL",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "KRONEHIT (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Radio \u00d624 (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 42",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "2.5119",
-        "ort": "KUFSTEIN Kitzb\u00fcheler Horn",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "layer": 2,
+        "leistung": 1.9953,
+        "ort": "KOEFLACH G\u00f6\u00dfnitzberg",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

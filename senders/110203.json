@@ -1,29 +1,11 @@
 [
     {
-        "frequenz": "K 34",
+        "frequenz": 103,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.3183",
-        "ort": "IMST 4 Plattenrain",
-        "programm": "Oberland TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "1.3183",
-        "ort": "IMST 4 Plattenrain",
-        "programm": "TIROL TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "1.3183",
-        "ort": "IMST 4 Plattenrain",
-        "programm": "TIROL TV",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "HORN 3 Steindlberg",
+        "programm": "Radio Arabella",
+        "system": "H\u00f6rfunk"
     }
 ]

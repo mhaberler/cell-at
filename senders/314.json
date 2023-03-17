@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20071107,
+        "datum2": 20170701,
+        "datum3": 20211005,
+        "davon5g": 0.000854,
+        "grenzwert": 0.056709,
+        "grenzwert2": 0.0671,
+        "grenzwert3": 0.066,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": "Techn. Hochschule Deggendorf/Bayern",
+        "institut3": "INIS / Slowenien",
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0.00081,
+        "messpunkt": "Hauptplatz",
+        "ort": "Feldbach",
+        "summe": 0.002959,
+        "summe2": 0.003763,
+        "summe3": 0.003578
+    }
+]

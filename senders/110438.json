@@ -1,11 +1,20 @@
 [
     {
-        "frequenz": "106.1",
+        "frequenz": 90.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1514",
-        "ort": "SCHEIBBS 2 Holzkogel",
-        "programm": "Radio 88.6",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "SALZBURG 10 Liefering",
+        "programm": "Radio Maria (Salzburg)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0219,
+        "ort": "SALZBURG 10 Liefering",
+        "programm": "Klassik Radio",
         "system": "H\u00f6rfunk"
     }
 ]

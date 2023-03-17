@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "K 28",
+        "frequenz": 103.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "VOELKERMARKT",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "UNKEN Unkenberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 594,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 87.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "UNKEN Unkenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "UNKEN Unkenberg",
+        "programm": "\u00d62 Salzburg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.01,
+        "ort": "UNKEN Unkenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "UNKEN Unkenberg",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

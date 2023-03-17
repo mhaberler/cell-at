@@ -1,11 +1,92 @@
 [
     {
-        "frequenz": "103.3",
+        "frequenz": 594,
         "gkey": null,
-        "layer": "2",
-        "leistung": "2.8184",
-        "ort": "MELK Hiesberg",
-        "programm": "Radio 88.6",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 36",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0141,
+        "ort": "MARIA NEUSTIFT",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

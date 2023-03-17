@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20221004,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 0.0071088,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "Fernmeldeb\u00fcro, Fernmeldebeh\u00f6rde Repuplik \u00d6sterreich",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 1.49e-05,
+        "lte2": 0,
+        "messpunkt": "Kirchplatz 2, Zentrum Fu\u00dfg\u00e4ngerzone, Kirche, Gemeindeamt",
+        "ort": "Schruns",
+        "summe": 0.000416,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

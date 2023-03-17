@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "90.2",
+        "frequenz": 101.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "BRAMBERG WILDKOGEL Wildkogel",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "BLUDENZ 3 Muttersberg",
+        "programm": "Antenne Vorarlberg",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "BLUDENZ 3 Muttersberg",
+        "programm": "Proton",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 106.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.5012,
+        "ort": "BLUDENZ 3 Muttersberg",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     }
 ]

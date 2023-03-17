@@ -1,0 +1,22 @@
+[
+    {
+        "datum": 20090507,
+        "datum2": null,
+        "datum3": null,
+        "davon5g": 0,
+        "grenzwert": 8.4e-05,
+        "grenzwert2": 0,
+        "grenzwert3": 0,
+        "institut": "T\u00dcV Austria Services GmbH",
+        "institut2": null,
+        "institut3": null,
+        "layer": 0,
+        "lte": 0,
+        "lte2": 0,
+        "messpunkt": "Hauptstra\u00dfe",
+        "ort": "Ritzing",
+        "summe": 7e-06,
+        "summe2": 0,
+        "summe3": 0
+    }
+]

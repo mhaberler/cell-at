@@ -1,11 +1,38 @@
 [
     {
-        "frequenz": "107.2",
+        "frequenz": 88.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1122",
-        "ort": "OEBLARN Strimitzen",
-        "programm": "Radio Gr\u00fcn Wei\u00df",
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "OBDACH Schupperer",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 90.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "OBDACH Schupperer",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "OBDACH Schupperer",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 97.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "OBDACH Schupperer",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

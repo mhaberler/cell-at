@@ -1,38 +1,38 @@
 [
     {
-        "frequenz": "89.1",
+        "frequenz": 101,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "PRAEGRATEN",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "PERG Lanzenberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "92.2",
+        "frequenz": 103.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "PRAEGRATEN",
-        "programm": "Radio Tirol",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "PERG Lanzenberg",
+        "programm": "Radio Austria",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "96.2",
+        "frequenz": 89.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0060",
-        "ort": "PRAEGRATEN",
-        "programm": "\u00d63",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "PERG Lanzenberg",
+        "programm": "Radio Arabella Linz",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 24",
+        "frequenz": 94.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "PRAEGRATEN",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "PERG Lanzenberg",
+        "programm": "Welle 1 Ober\u00f6sterreich",
+        "system": "H\u00f6rfunk"
     }
 ]

@@ -1,11 +1,26 @@
 [
     {
-        "frequenz": "107.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.3981",
-        "ort": "LIENZ 3 Stronach",
-        "programm": "Radio Osttirol",
-        "system": "H\u00f6rfunk"
+        "gkey": 110283,
+        "layer": 1,
+        "leistung": 185.569588222296,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "UMTS/LTE"
+    },
+    {
+        "gkey": 110283,
+        "layer": 1,
+        "leistung": 218.67377037367712,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE"
+    },
+    {
+        "gkey": 110283,
+        "layer": 1,
+        "leistung": 250,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE/5G"
     }
 ]

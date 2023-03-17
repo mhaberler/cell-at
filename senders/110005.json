@@ -1,18 +1,18 @@
 [
     {
-        "frequenz": "103",
+        "frequenz": 103,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT 3 Klosterkogel",
-        "programm": "Radio FreequENNS 100,8",
+        "programm": "Freequenns",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "106.8",
+        "frequenz": 106.8,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT 3 Klosterkogel",
         "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"

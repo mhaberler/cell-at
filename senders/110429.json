@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "89.6",
+        "frequenz": 96.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0224",
-        "ort": "SALZBURG 8 M\u00f6nchsberg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "RIED INNKREIS 2 Sulzberg ",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

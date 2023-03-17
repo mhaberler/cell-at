@@ -1,137 +1,18 @@
 [
     {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
+        "gkey": 110241,
+        "layer": 1,
+        "leistung": 441.67445389181563,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE/5G"
     },
     {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "498",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF 2 (Wien)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF eins",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 24",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0200",
-        "ort": "KLAUSEN-LEOPOLDSDORF",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
+        "gkey": 110241,
+        "layer": 1,
+        "leistung": 215.51447434600772,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "UMTS/LTE/5G"
     }
 ]

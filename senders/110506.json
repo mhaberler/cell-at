@@ -1,11 +1,803 @@
 [
     {
-        "frequenz": "K 28",
+        "frequenz": 100.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.5012",
-        "ort": "STEUERBERG",
-        "programm": "",
+        "layer": 2,
+        "leistung": 2.9999,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 103.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.9999,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "FM4",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 107.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.02,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Antenne K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ATV",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ATV2",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 490,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 498,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "kabel eins austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 546,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "sixx Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ProSieben Austria",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 24",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 4",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Radio Maria (Satellit)",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 554,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Zusatzdienst"
+    },
+    {
+        "frequenz": 690,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 87.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.9999,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 91.6,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 2.9999,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "3sat",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "3sat HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ATV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ATV2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "HGTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "HGTV Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL Austria Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Servus TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Servus TV / Red Bull TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ZDFinfo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 23",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ZDFInfo Zusatzdienste",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 24",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Das Erste HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Eurosport",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "kabel eins austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Kabel eins Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "KI.KA",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Playboy TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL 2",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Sixx Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "SPORT1",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ZDF",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ZDF HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ZDFneo",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 30",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ZDFneo HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "CNN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "CNN Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Deluxe Music",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Deluxe Music Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Disney Channel HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Disney Channel Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "NDR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "NDR Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ProSieben Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ProSieben Austria HD",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 24",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 24 App",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 24 Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "PULS 4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Radio Maria (Satellit)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Radio Maria Zusatzdienst",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "SAT.1 Austria HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "SAT.1 \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "VOX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "VOX HBB TV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 31",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ARTE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "BR",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "DMAX",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "DMAX HD Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Nickelodeon",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "n-tv",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "ONE",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Phoenix",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL NITRO",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "RTL Plus Austria",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "Sat.1 Gold \u00d6sterreich",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 48",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 3.1623,
+        "ort": "SPITTAL DRAU 1 Goldeck",
+        "programm": "SUPER RTL",
         "system": "Digitaler Rundfunk"
     }
 ]

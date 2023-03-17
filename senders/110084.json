@@ -1,11 +1,92 @@
 [
     {
-        "frequenz": "97.9",
+        "frequenz": 562,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "EBERHARDSCHLAG Wirtschaftsgeb\u00e4ude",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF 2 (Ober\u00f6sterreich)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF 2 (Salzburg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 32",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "EBENSEE",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

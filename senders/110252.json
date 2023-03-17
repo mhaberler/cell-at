@@ -1,20 +1,38 @@
 [
     {
-        "frequenz": "100.9",
+        "frequenz": 103.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "KOESSEN SCHWENDT Bichlachweg",
-        "programm": "KRONEHIT",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "KLAGENFURT 3 Pyramidenkogel",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "105.4",
+        "frequenz": 95.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "KOESSEN SCHWENDT Bichlachweg",
-        "programm": "Radio U1 Tirol",
+        "layer": 2,
+        "leistung": 1,
+        "ort": "KLAGENFURT 3 Pyramidenkogel",
+        "programm": "Welle 1 K\u00e4rnten",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KLAGENFURT 3 Pyramidenkogel",
+        "programm": "FREIZEITFERNSEHEN",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "KLAGENFURT 3 Pyramidenkogel",
+        "programm": "KULT1",
+        "system": "Digitaler Rundfunk"
     }
 ]

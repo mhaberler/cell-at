@@ -1,164 +1,29 @@
 [
     {
-        "frequenz": "554",
+        "frequenz": 88.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "PALFAU",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "554",
+        "frequenz": 94.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "PALFAU",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 99.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.006,
+        "ort": "PALFAU",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "87.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "POECHLARN",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "94",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "POECHLARN",
-        "programm": "Radio Nieder\u00f6sterreich",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "99.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
-        "ort": "POECHLARN",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF 2 (Wien)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF eins",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "POECHLARN",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
     }
 ]

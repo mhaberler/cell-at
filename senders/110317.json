@@ -1,11 +1,29 @@
 [
     {
-        "frequenz": "K 28",
+        "frequenz": 102.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "METNITZ Kuster",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "MARIA SAAL",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 87.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "MARIA SAAL",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "MARIA SAAL",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
     }
 ]

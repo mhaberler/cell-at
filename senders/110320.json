@@ -1,11 +1,18 @@
 [
     {
-        "frequenz": "103.3",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0316",
-        "ort": "MICHAELBEUERN NUSSDORF Oberlielon",
-        "programm": "KRONEHIT",
-        "system": "H\u00f6rfunk"
+        "gkey": 110320,
+        "layer": 1,
+        "leistung": 250,
+        "sharing": 1,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE/5G"
+    },
+    {
+        "gkey": 110320,
+        "layer": 1,
+        "leistung": 391.8794447362689,
+        "sharing": 0,
+        "struktur": "d",
+        "system": "GSM/UMTS/LTE/5G"
     }
 ]

@@ -1,11 +1,110 @@
 [
     {
-        "frequenz": "100.8",
+        "frequenz": 482,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0302",
-        "ort": "LOFER 2 Loferer Alm Loderbichl",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 94,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0282,
+        "ort": "LEUTSCHACH",
+        "programm": "\u00d62 Steiermark",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 98.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0282,
+        "ort": "LEUTSCHACH",
+        "programm": "Radio Agora",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 22",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.02,
+        "ort": "LEUTSCHACH",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
-        "frequenz": "107.5",
+        "frequenz": 98,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1995",
-        "ort": "S JOHANN PONG 2 Sternlehen",
-        "programm": "Welle 1 Salzburg",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "SEEFELD TIROL 2 Gschwandkopf",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     }
 ]

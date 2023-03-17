@@ -1,11 +1,128 @@
 [
     {
-        "frequenz": "92.9",
+        "frequenz": 106.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0316",
-        "ort": "SAALBACH 2 Wildenkarkogel",
-        "programm": "Radio \u00d624",
+        "layer": 2,
+        "leistung": 0.0316,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 530,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 89.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 93.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 95.2,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.005,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF 2 (Tirol)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF 2 (Vorarlberg)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 28",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.3981,
+        "ort": "RENNWEG Atzensberg",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

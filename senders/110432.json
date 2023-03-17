@@ -1,47 +1,155 @@
 [
     {
-        "frequenz": "88.5",
+        "frequenz": 100,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1500",
-        "ort": "S ANTON ARLB 1 Galzig",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "92.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1500",
-        "ort": "S ANTON ARLB 1 Galzig",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "95.1",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1500",
-        "ort": "S ANTON ARLB 1 Galzig",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "97.6",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1500",
-        "ort": "S ANTON ARLB 1 Galzig",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ROTTENMANN Sonnenberg",
         "programm": "FM4",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 44",
+        "frequenz": 102.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.1220",
-        "ort": "S ANTON ARLB 1 Galzig",
-        "programm": "",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d63",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 103.7,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1995,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "Kronehit",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.4,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "Antenne Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 104.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0589,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "Gr\u00fcn Wei\u00df",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 634,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": 87.9,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": 96.8,
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 41",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 1,
+        "ort": "ROTTENMANN Sonnenberg",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

@@ -1,11 +1,92 @@
 [
     {
-        "frequenz": "97.9",
+        "frequenz": 650,
         "gkey": null,
-        "layer": "2",
-        "leistung": "1.6596",
-        "ort": "GRAZ 4 Plabutsch L\u00fcftungsturm Nord",
-        "programm": "Radio Soundportal (Graz)",
-        "system": "H\u00f6rfunk"
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "FM4",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "\u00d61",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "\u00d63",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF 2 (Burgenland)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF 2 (K\u00e4rnten)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 43",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "GRAFENDORF",
+        "programm": "ORF Sport Plus",
+        "system": "Digitaler Rundfunk"
     }
 ]

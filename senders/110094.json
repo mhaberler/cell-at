@@ -1,578 +1,128 @@
 [
     {
-        "frequenz": "546",
+        "frequenz": 100,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "kabel eins austria",
-        "system": "Fernsehen"
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "radio AGORA 105 l 5",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "546",
+        "frequenz": 498,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "sixx Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV2",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "ORF III Kultur und Information",
         "system": "Fernsehen"
     },
     {
-        "frequenz": "578",
+        "frequenz": 88,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "594",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "722",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "722",
+        "frequenz": 91.1,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "\u00d61",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "722",
+        "frequenz": 95.6,
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
+        "layer": 2,
+        "leistung": 0.0302,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "\u00d62 K\u00e4rnten",
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "730",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ProSieben Austria",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "730",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
-        "system": "Zusatzdienst"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "kabel eins austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 30",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "sixx Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "SRF 1",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 34",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "SRF 2",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Sat.1 Gold \u00d6sterreich",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Servus TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 36",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "SUPER RTL",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 52",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF 2 (Burgenland)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "ORF 2 (Tirol)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF 2 (Wien)",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "ORF 2 (Vorarlberg)",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "ORF eins",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
         "programm": "ORF III Kultur und Information",
         "system": "Digitaler Rundfunk"
     },
     {
-        "frequenz": "K 52",
+        "frequenz": "K 24",
         "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 52",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ATV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "KRONEHIT (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "ProSieben Austria",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 Hbb TV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 (Satellit)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "PULS 4 Teletext",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Radio \u00d624 (MUX F)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Zugang zu 4Mediathek \u00fcber HbbTV",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 53",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "3.9811",
-        "ort": "EISENSTADT Umspannwerk",
-        "programm": "Zugang zu 4News \u00fcber HbbTV",
+        "layer": 2,
+        "leistung": 0.1,
+        "ort": "EISENKAPPEL 1 Lobnig",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]

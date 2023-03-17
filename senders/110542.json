@@ -1,47 +1,20 @@
 [
     {
-        "frequenz": "100",
+        "frequenz": 100.7,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0209",
-        "ort": "UNTERTILLIACH Sangerberg",
-        "programm": "Radio Osttirol",
+        "layer": 2,
+        "leistung": 0.0933,
+        "ort": "TRABOCH Schafberg",
+        "programm": "Antenne Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "90",
+        "frequenz": 103.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0071",
-        "ort": "UNTERTILLIACH Sangerberg",
-        "programm": "\u00d61",
+        "layer": 2,
+        "leistung": 0.049,
+        "ort": "TRABOCH Schafberg",
+        "programm": "Gr\u00fcn Wei\u00df",
         "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "96.2",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0071",
-        "ort": "UNTERTILLIACH Sangerberg",
-        "programm": "Radio Tirol",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "98.8",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0071",
-        "ort": "UNTERTILLIACH Sangerberg",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "K 35",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "UNTERTILLIACH Sangerberg",
-        "programm": "",
-        "system": "Digitaler Rundfunk"
     }
 ]

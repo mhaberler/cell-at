@@ -1,137 +1,29 @@
 [
     {
-        "frequenz": "554",
+        "frequenz": 88.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
+        "layer": 2,
+        "leistung": 0.0168,
+        "ort": "GUSSWERK",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "554",
+        "frequenz": 90.3,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF III Kultur und Information",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "554",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF SPORT PLUS",
-        "system": "Fernsehen"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "FM4",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
+        "layer": 2,
+        "leistung": 0.0168,
+        "ort": "GUSSWERK",
         "programm": "\u00d61",
-        "system": "Digitaler Rundfunk"
+        "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "K 31",
+        "frequenz": 93.4,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "\u00d63",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF 2 (Burgenland)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF 2 (Nieder\u00f6sterreich)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF 2 (Wien)",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF eins",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF III Kultur und Information",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF SPORT PLUS",
-        "system": "Digitaler Rundfunk"
-    },
-    {
-        "frequenz": "K 31",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.1000",
-        "ort": "HAINFELD",
-        "programm": "ORF Sport Plus (MUX B)",
-        "system": "Digitaler Rundfunk"
+        "layer": 2,
+        "leistung": 0.0168,
+        "ort": "GUSSWERK",
+        "programm": "\u00d62 Steiermark",
+        "system": "H\u00f6rfunk"
     }
 ]

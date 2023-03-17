@@ -1,63 +1,45 @@
 [
     {
-        "frequenz": "105.9",
+        "frequenz": 105.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0100",
+        "layer": 2,
+        "leistung": 0.01,
         "ort": "ADMONT",
-        "programm": "KRONEHIT",
+        "programm": "Kronehit",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "578",
+        "frequenz": 578,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
-        "programm": "FM4",
-        "system": "H\u00f6rfunk"
+        "programm": "ORF III Kultur und Information",
+        "system": "Fernsehen"
     },
     {
-        "frequenz": "578",
+        "frequenz": 92.5,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "ADMONT",
-        "programm": "\u00d61",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "578",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
-        "ort": "ADMONT",
-        "programm": "\u00d63",
-        "system": "H\u00f6rfunk"
-    },
-    {
-        "frequenz": "92.5",
-        "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
+        "layer": 2,
+        "leistung": 0.008,
         "ort": "ADMONT",
         "programm": "\u00d61",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "94.9",
+        "frequenz": 94.9,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
+        "layer": 2,
+        "leistung": 0.008,
         "ort": "ADMONT",
-        "programm": "Radio Steiermark",
+        "programm": "\u00d62 Steiermark",
         "system": "H\u00f6rfunk"
     },
     {
-        "frequenz": "97.2",
+        "frequenz": 97.2,
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0080",
+        "layer": 2,
+        "leistung": 0.008,
         "ort": "ADMONT",
         "programm": "\u00d63",
         "system": "H\u00f6rfunk"
@@ -65,8 +47,8 @@
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
         "programm": "FM4",
         "system": "Digitaler Rundfunk"
@@ -74,8 +56,8 @@
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
         "programm": "\u00d61",
         "system": "Digitaler Rundfunk"
@@ -83,8 +65,8 @@
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
         "programm": "\u00d63",
         "system": "Digitaler Rundfunk"
@@ -92,8 +74,8 @@
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
         "programm": "ORF 2 (Burgenland)",
         "system": "Digitaler Rundfunk"
@@ -101,8 +83,8 @@
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
         "programm": "ORF 2 (K\u00e4rnten)",
         "system": "Digitaler Rundfunk"
@@ -110,10 +92,37 @@
     {
         "frequenz": "K 34",
         "gkey": null,
-        "layer": "2",
-        "leistung": "0.0501",
+        "layer": 2,
+        "leistung": 0.0501,
         "ort": "ADMONT",
-        "programm": "ORF Sport Plus (MUX B)",
+        "programm": "ORF 2 (Steiermark)",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "ADMONT",
+        "programm": "ORF eins",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "ADMONT",
+        "programm": "ORF III Kultur und Information",
+        "system": "Digitaler Rundfunk"
+    },
+    {
+        "frequenz": "K 34",
+        "gkey": null,
+        "layer": 2,
+        "leistung": 0.0501,
+        "ort": "ADMONT",
+        "programm": "ORF Sport Plus",
         "system": "Digitaler Rundfunk"
     }
 ]
